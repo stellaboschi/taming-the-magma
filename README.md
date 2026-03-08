@@ -1,5 +1,5 @@
 # Taming the Magma
-![Banner del viaggio](header-magma.jpg)
+<img src="header-magma.jpg" width="100%">
 Benvenuti nel mio nuovo spazio digitale gestito con GitHub e Markdown.
 
 ## Obiettivi del progetto
