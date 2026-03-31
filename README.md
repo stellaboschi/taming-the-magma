@@ -12,3 +12,7 @@ Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
 
 ### [🇬🇧 Enter the Lab (English)](https://stellaboschi.github.io/taming-the-magma/en/)
 *A real-time log of a human-AI hybrid dialogue attempting to tame the flow.*
+
+---
+
+**[← Torna al Main Hub di Stella Boschi](https://stellaboschi.github.io/)**
