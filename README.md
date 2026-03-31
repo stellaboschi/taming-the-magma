@@ -5,7 +5,7 @@ Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
 
 ---
 
-## 🔬 Scegli la lingua / Select Language
+## Scegli la lingua / Select Language
 
 ### [🇮🇹 Entra nel Laboratorio (Italiano)](https://stellaboschi.github.io/taming-the-magma/it/)
 *Fili Sottili: lettere dal caos. Strategia creativa e dialogo con le macchine.*
@@ -15,4 +15,9 @@ Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
 
 ---
 
-**[← Torna al Main Hub di Stella Boschi](https://stellaboschi.github.io/)**
+**[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)**
+
+---
+
+*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*  
+ 
