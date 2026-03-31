@@ -8,7 +8,7 @@ Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
 ## 🔬 Scegli la lingua / Select Language
 
 ### [🇮🇹 Entra nel Laboratorio (Italiano)](https://stellaboschi.github.io/taming-the-magma/it/)
-*Filisottili, strategia creativa e dialogo con le macchine.*
+*Fili Sottili: lettere dal caos. Strategia creativa e dialogo con le macchine.*
 
 ### [🇬🇧 Enter the Lab (English)](https://stellaboschi.github.io/taming-the-magma/en/)
-*Thesis translation, legacy migration, and my journey with Johnny.*
+*A real-time log of a human-AI hybrid dialogue attempting to tame the flow.*
