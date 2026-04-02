@@ -1,7 +1,7 @@
 # Taming the Magma
 <img src="header-magma.jpg" width="100%">
 
-Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
+Welcome to my digital laboratory.
 
 ---
 
@@ -19,5 +19,5 @@ Benvenuti nel mio laboratorio digitale. / Welcome to my digital laboratory.
 
 ---
 
-*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*  
+*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*  
  
