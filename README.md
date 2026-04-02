@@ -11,7 +11,7 @@ Welcome to my digital laboratory.
 *Fili Sottili: lettere dal caos. Strategia creativa e dialogo con le macchine.*
 
 ### [🇬🇧 Enter the Lab (English)](https://stellaboschi.github.io/taming-the-magma/en/)
-*A real-time log of a human-AI hybrid dialogue attempting to tame the flow from my own perspective.*  
+*A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.*  
 
 ---
 
