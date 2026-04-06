@@ -11,7 +11,7 @@ tags:
 (Few words)
 
 <p align="center"> 
-  <img src="../Assets/hero_banner.jpg" alt="An intricate web of magenta and cyan threads.">
+  <img src="../Assets/hero_banner.png" alt="An intricate web of magenta and cyan threads.">
 </p>
 
 Untangling the magma.
