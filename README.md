@@ -1,7 +1,7 @@
 # Taming the Magma
 <img src="header-magma.jpg" width="100%">
 
-Welcome to my digital laboratory.
+Welcome to this digital home.
 
 ---
 
