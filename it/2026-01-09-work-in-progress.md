@@ -14,9 +14,10 @@ tags:
   <img src="../Assets/hero_banner.png" alt="An intricate web of magenta and cyan threads.">
 </p>
 
-Caricamento in corso... stiamo mettendo in ordine i fili. | Untangling the magma.
+Caricamento in corso... stiamo mettendo in ordine i fili.  
 
-See you around.
+*Untangling the magma.  
+See you around.*
 
 ---
 
