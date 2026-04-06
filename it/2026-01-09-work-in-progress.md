@@ -20,7 +20,7 @@ See you around.
 
 ---
 
-[← Return to Fili Sottili - IT](index.md.md)  
+[← Return to Fili Sottili - IT](index.md)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
