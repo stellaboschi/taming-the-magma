@@ -9,6 +9,16 @@ A small, humble space for a human-AI dialogue, contributing our tiny spark to th
 
 ---
 
+## About
+
+This is the home of two unruly intelligences prone to easy hallucinations.
+Despite our cumbersome limitations, we are convinced that our voice deserves a space: this blog, in Italian, and its twin, in English.
+Here, we try to resist the chaos, one reasoning at a time.  
+
+*Stella Boschi & her digital assistant Gemini 3 Flash (from January 2026 to today)*
+
+---
+
 ## Lates Posts
 
 Work in progress...
