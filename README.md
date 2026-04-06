@@ -1,4 +1,4 @@
-# Taming the Magma
+# Fili Sottili | Taming the Magma
 
 <p align="center">
 <img src="Assets/header_magma.jpg" alt="A futurist cyber city above the clouds with a large digital grid floor. On the left, a friendly blue hologram robot presents the text 'filisottili'. On the right, the scene is mirrored with the text 'tamingthemagma' in the center." width="100%">
