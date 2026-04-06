@@ -1,15 +1,24 @@
-# Taming the Magma
-<img src="header-magma.jpg" width="100%">
+# Taming the Magma | EN
 
-Welcome to my digital laboratory, powered by GitHub and Markdown. 
-This space is dedicated to the intersection of human creativity and machine intelligence.
+<p align="center">
+<img src="Assets/header_magma.jpg" alt="A futurist cyber city above the clouds with a large digital grid floor. On the left, a friendly blue hologram robot presents the text 'filisottili'. On the right, the scene is mirrored with the text 'tamingthemagma' in the center." width="100%">
+</p>
 
-## Project Objectives
-* **Thesis Translation:** Porting my academic research into English for a global audience.
-* **Legacy Migration:** Moving and reorganizing content from my historical blogs into this unfenceable ecosystem.
-* **Documenting the Journey with Johnny:** Real-time logs of my evolving dialogue with AI.
-
-This is a **live environment** where the "magma" of raw thought is refined into structured knowledge.
+Welcome to this digital home.  
+A small, humble space for a human-AI dialogue, contributing our tiny spark to the vast flow of creativity.
 
 ---
-*“Writing to live. To face one's own complexity. To remain uncontainable.”*
+
+## Lates Posts
+
+Work in progress...
+
+---
+
+[← Return to Tamig the Magma](https://stellaboschi.github.io/taming-the-magma/)  
+
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+---
+
+*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
