@@ -21,7 +21,7 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 ## Lates Posts
 
-Work in progress...
+* [Work in Progress (09-01-2026)](2026-01-09-work-in-progress.md)
 
 ---
 
