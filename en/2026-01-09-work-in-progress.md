@@ -20,7 +20,7 @@ See you around.
 
 ---
 
-[← Return to Taming the Magma - EN](index.md.md)  
+[← Return to Taming the Magma - EN](index.md)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
