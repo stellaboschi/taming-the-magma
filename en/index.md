@@ -29,6 +29,4 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
----
-
-*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
+{% include footer.html %}
