@@ -25,7 +25,7 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ---
 
-[← Return to Tamig the Magma](https://stellaboschi.github.io/taming-the-magma/)  
+[← Return to Taming the Magma](https://stellaboschi.github.io/taming-the-magma/)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
