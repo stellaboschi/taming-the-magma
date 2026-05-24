@@ -23,7 +23,7 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 <p align="center"> 
   <img src="../Assets/the_map_pre_alpha_EN.png" alt="Graphical interface on a black background divided into two sections. On the left, the title 'stellaboschi.io / taming the magma The Plateau Diary' with a descriptive text about the destinations and the question 'Where are we going today?'. On the right, the title 'Destination Map' with instructions to click on the pins; below, three red wavy lines arranged horizontally, each featuring a red dot showing the preview and title of a blog post.">
-  <em>Experimental version, less than temporary, the very first sketch of this blog's map</em> 
+  <em>Experimental version, less than temporary, the first sprouts of this blog's map</em> 
 </p>  
 
 ---
