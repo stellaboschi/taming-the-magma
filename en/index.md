@@ -19,6 +19,15 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 ---
 
+## Destination Map  
+
+<p align="center"> 
+  <img src="../Assets/the_map_pre_alpha.png" alt="Graphical interface on a black background divided into two sections. On the left, the title 'stellaboschi.io / taming the magma Il Diario dell'Altipiano' with a descriptive text about the destinations and the question 'Oggi dove andiamo?'. On the right, the title 'Mappa delle Destinazioni' with instructions to click on the pins; below, three red wavy lines arranged horizontally, each featuring a red dot showing the preview and title of a blog post.">
+  <em>Experimental version, less than temporary, the very first sketch of this blog's map</em> 
+</p>  
+
+---
+
 ## Lates Posts
 
 * [The Map (or: the ethics of the plateau in the face of the magma) (22-05-2026)](2026-05-22-the-map.md)
