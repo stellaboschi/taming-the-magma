@@ -30,7 +30,7 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ## Lates Posts
 
-* [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-la-mappa.md)
+* [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-the-map.md)
 * [Work in Progress (09-01-2026)](2026-01-09-work-in-progress.md)
 
 ---
