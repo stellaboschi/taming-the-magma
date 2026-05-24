@@ -19,6 +19,11 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ---
 
+<p align="center"> 
+  <img src="../Assets/the_map_pre_alpha.png" alt="Interfaccia grafica su sfondo nero divisa in due sezioni. A sinistra, il titolo 'stellaboschi.io / taming the magma Il Diario dell'Altipiano' con il testo descrittivo sulle destinazioni e la domanda 'Oggi dove andiamo?'. A destra, il titolo 'Mappa delle Destinazioni' con le istruzioni per cliccare sulle puntine; sotto, tre linee ondulate rosse disposte in orizzontale, ciascuna con un pallino rosso che mostra l'anteprima e il titolo di un post del blog.">
+  <em>Versione sperimentale, meno che provvisoria, il primo abbozzo della mappa di questo blog</em> 
+</p>  
+
 ## Lates Posts
 
 * [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-la-mappa.md)
