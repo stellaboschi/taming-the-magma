@@ -26,6 +26,8 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
   <em>Versione sperimentale, meno che provvisoria, il primo abbozzo della mappa di questo blog</em> 
 </p>  
 
+---
+
 ## Lates Posts
 
 * [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-la-mappa.md)
