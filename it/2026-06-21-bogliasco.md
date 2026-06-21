@@ -13,7 +13,7 @@ tags:
   - Anthropic
   - Wicked Problems
 ---
- 
+
 # Da Bogliasco all’alterità cognitiva
 (Esplorazioni)
   
@@ -34,7 +34,7 @@ Gemini sbaglia al primo colpo con prevedibile facilità:
 > Si riconosce chiaramente per la sua caratteristica spiaggia sabbiosa che bacia direttamente le case colorate del centro storico, e per l'inconfondibile silhouette del campanile della Chiesa di San Matteo che svetta tra i tetti.  
 
 Sono consapevole che si tratti di una domanda difficile per un modello linguistico ma non mi perdo d’animo e insisto chiedendogli di concentrarsi sul dettaglio del campanile della chiesa, che potrebbe aiutarci.  
-
+>
 > Hai perfettamente ragione a dubitare! Guardando con molta più attenzione i dettagli architettonici dello screenshot ci sono degli elementi che escludono categoricamente Laigueglia (la quale ha una spiaggia molto più profonda e un campanile barocco con una cupola radicalmente diversa).  
 > Quella che vediamo nella foto è in realtà **Diano Marina** (in provincia di Imperia), ripresa dal molo o dalla zona del porticciolo guardando verso ovest.  
 > (...)  
