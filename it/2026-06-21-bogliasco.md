@@ -20,6 +20,12 @@ tags:
 Oggi partiamo da un’immagine trovata sul sito Storie di Liguria dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non si sa!).
 Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo a Gemini. 
 
+<p align="center"> 
+  <img src="../Assets/storiediliguria.png" alt="Bogliasco.">
+  <br>
+  <em>dalla home page del sito storiediliguria.it</em>
+  <br>
+</p>
 
 Gemini sbaglia al primo colpo con prevedibile facilità:
 Buongiorno! Facendo un'analisi dello screenshot siamo senza dubbio in Liguria, come suggerisce chiaramente anche il nome del sito ("Storie di Liguria").
