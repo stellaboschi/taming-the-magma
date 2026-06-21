@@ -21,7 +21,7 @@ Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://stor
 Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo aiuto a Gemini. 
 
 <p align="center"> 
-  <img src="../Assets/storiediliguria.png" alt="Bogliasco.">
+  <img src="../Assets/storiediliguria.png" alt="Screenshot della home page di Storie di Liguria. In sovraimpressione c'è un modulo di contatto bianco su uno sfondo fotografico che mostra una veduta panoramica del borgo ligure di Bogliasco, con le sue case colorate a picco sulla spiaggia, il molo artificiale e il caratteristico campanile slanciato della Chiesa della Natività di Maria Santissima.">
   <br>
   <em>Screenshot tratto dalla home page del sito Storie di Liguria del 21 giugno 2026</em>
   <br>
