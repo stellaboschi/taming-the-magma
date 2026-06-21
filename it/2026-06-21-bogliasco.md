@@ -12,6 +12,7 @@ tags:
   - ai
   - anthropic
   - wicked-problems
+  - black-box
 ---
 
 # Da Bogliasco all’alterità cognitiva
