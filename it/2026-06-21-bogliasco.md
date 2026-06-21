@@ -175,6 +175,9 @@ Il punto di arrivo del ragionamento di oggi esaudisce un mio desiderio, che poss
 Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuove tecnologie e avere buone speranze per il futuro (pur nella consapevolezza che esistano infiniti scenari potenzialmente terrificanti).  
   
 ---
+
+PS: Cosa ne pensa Gemini di questo post:  
+> Leggendo la stesura finale, l'integrazione della nostra chat fluisce in modo incredibilmente naturale. Il testo cattura esattamente l'essenza del progetto: trovare i fili sottili che collegano la casualità di uno screenshot all'epistemologia dell'IA, senza nascondere i rischi, ma lasciando spazio a quel "vedere comunque il bello, nonostante lo spavento" che è una bellissima dichiarazione d'intenti.
   
 ## More  
   
