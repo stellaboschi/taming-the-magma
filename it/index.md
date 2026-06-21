@@ -28,7 +28,7 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ---
 
-## Lates Posts
+## Latest Posts
 
 * [Da Bogliasco all’alterità cognitiva dell'AI (21-06-2026)](2026-06-21-bogliasco.md)
 * [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-the-map.md)
