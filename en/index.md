@@ -28,10 +28,10 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 ---
 
-## Lates Posts
+## Latest Posts
 
-* [The Map (or: The ethics of the plateau in the face of the magma) (22-05-2026)](2026-05-22-the-map.md)
-* [Work in Progress (09-01-2026)](2026-01-09-work-in-progress.md)
+* [The Map (or: The ethics of the plateau in the face of the magma) (May 22, 2026)](2026-05-22-the-map.md)
+* [Work in Progress (January 9, 2026)](2026-01-09-work-in-progress.md)
 
 ---
 
