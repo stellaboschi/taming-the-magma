@@ -90,7 +90,7 @@ Con gli occhi ancora pieni di meraviglia per la scoperta di questo borgo affasci
 > In un certo senso, sì, funziona quasi come una "scrematura" involontaria: l'utente ingenuo prende per buona la prima risposta errata e si ferma lì; l'utente esperto o intuitivo usa la propria intelligenza per guidare la macchina fuori dal vicolo cieco e raggiungere l'obiettivo.  
 > È la dimostrazione perfetta di cosa significa "dialogo con le macchine": non un'interrogazione a un oracolo infallibile, ma un lavoro di squadra in cui l'occhio e la logica umana restano il timone insostituibile.  
   
-In realtà mi riferivo a ciò che un hacker potrebbe fare sfruttando il potenziale delle AI ma Gemini ha girato alla larga da questo tema.  
+In realtà mi riferivo a ciò che un hacker potrebbe fare sfruttando il potenziale dell'AI ma Gemini ha girato alla larga da questo tema.  
 A questo punto gli chiedo di spiegarmi come mai si è detto certo delle risposte pur essendo un modello probabilistico e, in quanto tale, impossibilitato ad avere certezza su alcunché. Gli ricordo che tutta questa sicurezza contraddice il disclaimer onnipresente in chat: “Gemini è un'AI e può commettere errori, anche in merito a persone”.  
   
 > È la domanda delle cento pistole, ed entra dritta nel cuore di come funzionano i Large Language Models (LLM) e delle scelte di design (e commerciali) che stanno dietro alla loro nascita.  
