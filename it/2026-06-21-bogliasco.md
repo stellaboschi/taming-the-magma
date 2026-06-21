@@ -187,7 +187,8 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
 * Bogliasco (e tutti gli altri luoghi meravigliosi citati da Gemini)  
 * [Storie di Liguria](https://storiediliguria.it/)  
 * Brunori Sas – La vita com'è  
-* Post di Anthropic  
+* L'articolo ["Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that." - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
+* Il saggio ["When AI builds itself" (tradotto in italiano come "Quando l'Intelligenza Artificiale si costruisce da sola") - Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
 * Giorgio Caproni - Biglietto lasciato prima di non andar via  
   
 ---
