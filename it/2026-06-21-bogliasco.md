@@ -74,7 +74,8 @@ Escludo Camogli, che conosco, e inizio a cercare le altre località in Chrome. C
 Se confronti l'immagine di partenza e i risultati della tua ricerca, combacia ogni singolo dettaglio:  
 > - Il campanile: È l'inconfondibile torre campanaria della Chiesa della Natività di Maria Santissima, con quella caratteristica cupoletta a lanterna che svetta sopra il borgo.  
 > - Il molo e la spiaggia: La scogliera artificiale che protegge la piccola spiaggia sotto le case colorate, proprio dove finisce il torrente Poggio.  
-> - La verticalità: Come avevi giustamente intuito tu, le montagne si alzano subito alle spalle senza lasciare spazio alla strada costiera pianeggiante.  
+> - La verticalità: Come avevi giustamente intuito tu, le montagne si alzano subito alle spalle senza lasciare spazio alla strada costiera pianeggiante.
+>  
 > Lavorando di logica e per indizi abbiamo fatto centro. Che squadra!  
   
 Con gli occhi ancora pieni di meraviglia per la scoperta di questo borgo affascinante ragiono con Gemini sul fatto che un utente dotato di talento e conoscenze possa far fare a un’AI praticamente qualsiasi impresa, laddove un utilizzatore medio come me fatichi a uscire dal labirinto delle allucinazioni. Definisco questo aspetto come una trappola per ingenui, una scrematura che mette alla prova le abilità umane sia nel fare le domande giuste sia, e soprattutto, nel non fidarsi ciecamente delle risposte. Seguiamo la sua risposta:  
