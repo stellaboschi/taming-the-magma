@@ -1,6 +1,6 @@
 ---
 title: "Bogliasco"
-subtitle: "Da Bogliasco all’alterità cognitiva"
+subtitle: "Da Bogliasco all’alterità cognitiva dell'AI"
 date: 2026-06-21
 project: "Fili Sottili / Taming The Magma"
 language: "it"
@@ -15,7 +15,7 @@ tags:
   - black-box
 ---
 
-# Da Bogliasco all’alterità cognitiva
+# Da Bogliasco all’alterità cognitiva dell'AI
 (Esplorazioni)
   
 Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non si sa!).
