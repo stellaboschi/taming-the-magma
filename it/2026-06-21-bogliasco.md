@@ -18,12 +18,12 @@ tags:
 (Esplorazioni)
   
 Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non si sa!).
-Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo a Gemini. 
+Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo aiuto a Gemini. 
 
 <p align="center"> 
   <img src="../Assets/storiediliguria.png" alt="Bogliasco.">
   <br>
-  <em>Dalla home page del sito Storie di Liguria del 21 giugno 2026</em>
+  <em>Screenshot tratto dalla home page del sito Storie di Liguria del 21 giugno 2026</em>
   <br>
 </p>
 
