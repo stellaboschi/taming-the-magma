@@ -186,10 +186,10 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
 **Thanks for inspiring me:**  
 * Bogliasco (e tutti gli altri luoghi meravigliosi citati da Gemini)  
 * [Storie di Liguria](https://storiediliguria.it/)  
-* Brunori Sas – La vita com'è  
-* L'articolo ["Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that." - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
-* Il saggio ["When AI builds itself. Our progress toward recursive self-improvement, and its implications." (tradotto in italiano come "Quando l'Intelligenza Artificiale si costruisce da sola") - Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
-* Il video di Raffaele Gaito [Intervista speciale a un ricercatore Anthropic - Gian Segato](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s)    
+* Brunori Sas – *La vita com'è*  
+* L'articolo [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
+* Il saggio [*When AI builds itself. Our progress toward recursive self-improvement, and its implications." (tradotto in italiano come "Quando l'Intelligenza Artificiale si costruisce da sola*) - Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
+* Il video di Raffaele Gaito [Intervista speciale a un ricercatore Anthropic - Gian Segato - June 6, 2026](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s)    
   
 ---
 
