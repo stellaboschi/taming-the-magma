@@ -36,8 +36,8 @@ Gemini sbaglia al primo colpo con prevedibile facilità:
 Sono consapevole che si tratti di una domanda difficile per un modello linguistico ma non mi perdo d’animo e insisto chiedendogli di concentrarsi sul dettaglio del campanile della chiesa, che potrebbe aiutarci.  
 
 > Hai perfettamente ragione a dubitare! Guardando con molta più attenzione i dettagli architettonici dello screenshot ci sono degli elementi che escludono categoricamente Laigueglia (la quale ha una spiaggia molto più profonda e un campanile barocco con una cupola radicalmente diversa).  
-> Quella che vediamo nella foto è in realtà Diano Marina (in provincia di Imperia), ripresa dal molo o dalla zona del porticciolo guardando verso ovest.
-> (...)
+> Quella che vediamo nella foto è in realtà Diano Marina (in provincia di Imperia), ripresa dal molo o dalla zona del porticciolo guardando verso ovest.  
+> (...)  
   
 Prosegue la risposta con un elenco di elementi, a suo dire inconfondibili, che lo confermerebbero. Insisto suggerendogli che a mio avviso è una località del levante ligure.  
 
