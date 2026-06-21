@@ -123,7 +123,7 @@ Ottimo, la risposta è addirittura più interessante della spiaggia di Bogliasco
 > Il cambio di paradigma: Nella ricerca medica, l'obiettivo dell'IA non è dare la risposta corretta preconfezionata, ma restringere lo spazio di ricerca dell'umano.
 > Se un ricercatore deve testare 10.000 molecole, l'IA probabilistica può indicare le 50 che hanno la maggiore probabilità statistica di successo biologico, spiegando i motivi biochimici di quella selezione. Il controllo finale, l'esperimento in vitro e la validazione clinica restano – e devono restare – in mano allo scienziato.
 
-Mi fermo un attimo per approfondire i grafi di conoscenza (o Knowledge Graphs), che Gemini descrive come strumenti prodigiosi per addomesticare i modelli probabilistici ancorandoli alla verifica fattuale della correlazione tra i Nodi (le entità del mondo reale) e gli gli Archi (le relazioni che definiscono il tipo di legame tra gli oggetti) in modo da azzerare le allucinazioni.
+Mi fermo un attimo per approfondire i grafi di conoscenza (o Knowledge Graphs), che Gemini descrive come strumenti prodigiosi per addomesticare i modelli probabilistici ancorandoli alla verifica fattuale della correlazione tra i Nodi (le entità del mondo reale) e gli Archi (le relazioni che definiscono il tipo di legame tra gli oggetti) in modo da azzerare le allucinazioni.
 
 Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso fare a meno di condividere un’intuizione sul perché l’AI possa essere d’aiuto al genere umano (non l’unica ragione, ma forse una delle tante) ispirata da questa frase:
 
