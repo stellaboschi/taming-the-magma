@@ -7,11 +7,11 @@ language: "it"
 tags:
   - mare
   - allucinazioni
-  - vacanze
-  - Liguria
-  - AI
-  - Anthropic
-  - Wicked Problems
+  - anticiclone-africano
+  - liguria
+  - ai
+  - anthropic
+  - wicked-problems
 ---
 
 # Da Bogliasco all’alterità cognitiva
