@@ -190,7 +190,7 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
 ## More  
   
 **Thanks for inspiring me:**  
-* Bogliasco (e tutti gli altri luoghi meravigliosi citati da Gemini)  
+* Bogliasco, vicino a Genova, e tutti gli altri luoghi meravigliosi citati da Gemini, in Liguria  
 * [Storie di Liguria](https://storiediliguria.it/)  
 * Brunori Sas – *La vita com'è*
 * Il post di Dario Amodei [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
