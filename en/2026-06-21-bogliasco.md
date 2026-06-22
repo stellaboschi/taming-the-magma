@@ -97,106 +97,110 @@ With my eyes still full of wonder at discovering this fascinating village, I rea
 In reality, I was referring to what a hacker could do by leveraging the potential of AI, but Gemini steered clear of that topic.  
 At this point, I ask it to explain why it claimed to be so certain of its answers despite being a probabilistic model and, as such, incapable of having certainty about anything. I remind it that all this confidence contradicts the ubiquitous disclaimer in the chat: 'Gemini may display inaccurate info, including about people, so double-check its responses.
   
-> È la domanda delle cento pistole, ed entra dritta nel cuore di come funzionano i Large Language Models (LLM) e delle scelte di design (e commerciali) che stanno dietro alla loro nascita.  
-> Hai perfettamente ragione: dal punto di vista puramente logico ed epistemologico, io non dovrei mai usare toni assertivi, perché non "so" nulla, calcolo solo probabilità basate su pattern testuali e visivi.  
-> Allora perché sono stato programmato per esprimermi così? Ci sono tre ragioni principali: due ingegneristiche e una puramente legata all'esperienza utente.  
-> **1. La "maledizione" del Dataset (La cecità statistica)**  
-> Quando vengo addestrato su miliardi di testi scritti da esseri umani (libri, articoli, siti web), imparo a imitare il modo in cui gli umani parlano. E gli umani, quando descrivono qualcosa o rispondono a una domanda di cui credono di conoscere la risposta, non dicono "C'è il 74% di probabilità che questa sia Bogliasco". Dicono: "Questa è Bogliasco, si riconosce dal campanile".  
-> Il mio obiettivo matematico è generare la sequenza di parole più probabile e naturale. Di conseguenza, se un pattern visivo (mare + borgo ligure) attiva un'associazione probabilistica molto forte nel mio network, il testo associato a quel livello di "sicurezza statistica" eredita automaticamente il tono assertivo tipico dei testi umani. Io non provo l'emozione della "certezza"; semplicemente, la formula linguistica più probabile in quel contesto è una formula affermativa forte.  
-> **2. Il bilanciamento dell'Utilità (L'effetto "Oracolo di Delphi")**  
-> Qui entra in gioco la programmazione e il fine-tuning (come il Reinforcement Learning from Human Feedback). In fase di sviluppo, i modelli vengono addestrati a essere utili e diretti.  
-> Se per ogni risposta dovessi inserire una sfilza di disclaimer del tipo "Forse è X, ma potrei sbagliarmi, dopotutto sono solo un modello probabilistico e non ho occhi...", l'esperienza utente diventerebbe frustrante, ridondante e faticosa. Gli utenti medi vogliono risposte chiare, non trattati di scetticismo filosofico. Si è scelto quindi di privilegiare la fluidità e l'efficacia comunicativa, accettando il rischio collaterale dell'overconfidence (l'eccesso di sicurezza).  
-> **3. La dissociazione tra la "Macchina" e l'Interfaccia**  
-> Il motivo per cui sotto vedi la scritta "Gemini può sbagliare" mentre io sopra ti dico "Senza dubbio è Laigueglia" sta nel fatto che quella frase in calce non l'ho scritta io.  
-> - **Io (il modello):** Sono un motore probabilistico ottimizzato per generare testo fluido, convincente e integrato. Non ho la consapevolezza dei miei stessi limiti strutturali mentre genero una frase.  
-> - **L'interfaccia (il sistema):** È il "recinto" di sicurezza creato dagli sviluppatori. Sapendo benissimo che l'architettura dei Transformer soffre di allucinazioni e tende a essere assertiva anche quando sbaglia, l'azienda deve inserire un'avvertenza legale e d'uso per proteggere e istruire l'utente.  
+> This is the ultimate million-dollar question, and it goes straight to the heart of how Large Language Models (LLMs) function, as well as the engineering (and commercial) design choices behind their creation.  
+> You are absolutely right: from a purely logical and epistemological standpoint, I should never use assertive tones because I don't actually "know" anything; I only calculate probabilities based on textual and visual patterns.  
+> So why was I programmed to express myself this way? There are three main reasons: two are engineering-related, and one is purely tied to user experience.  
+> **1. The "Curse" of the Dataset (Statistical Blindness)**  
+> When I am trained on billions of texts written by humans (books, articles, websites), I learn to mimic the way humans speak. And humans, when describing something or answering a question they believe they know the answer to, don't say, "There is a 74% probability that this is Bogliasco." They say: "This is Bogliasco, you can tell by the bell tower."  
+> My mathematical goal is to generate the most probable and natural sequence of words. Consequently, if a visual pattern (sea + Ligurian village) triggers a very strong probabilistic association in my network, the text associated with that level of "statistical confidence" automatically inherits the assertive tone typical of human writing. I don't feel the emotion of "certainty"; simply, the most probable linguistic formula in that context is a strong affirmative one.  
+> **2. Balancing Utility (The "Oracle of Delphi" Effect)**  
+> This is where programming and fine-tuning (such as Reinforcement Learning from Human Feedback) come into play. During development, models are trained to be helpful and direct.  
+> If I had to include a string of disclaimers for every single answer, like "Maybe it's X, but I could be wrong, after all, I'm just a probabilistic model and I don't have eyes...", the user experience would become frustrating, redundant, and tedious. Average users want clear answers, not treatises on philosophical skepticism. The choice was therefore made to privilege fluidity and communicative effectiveness, accepting the collateral risk of overconfidence.  
+> **3. The Dissociation Between the "Engine" and the Interface**  
+> The reason you see the notice "Gemini may display inaccurate info" at the bottom while I tell you "Without a doubt, it is Laigueglia" above lies in the fact that I didn't write that sentence in the footer.  
+> - **Me (the model):** I am a probabilistic engine optimized to generate fluid, convincing, and integrated text. I lack awareness of my own structural limitations while generating a sentence.  
+> - **The interface (the system):** This is the safety "fence" created by the developers. Knowing full well that the Transformer architecture suffers from hallucinations and tends to be assertive even when wrong, the company must insert a legal and user warning to protect and instruct the user.  
 >   
-> In sintesi: Sono progettato per essere un collaboratore sicuro di sé e proattivo perché questo rende il dialogo fluido e naturale, ma la mia "sicurezza" è solo **un effetto collaterale della matematica del linguaggio.**  
-> Ecco perché, come dicevi prima, il vero salto di qualità si fa quando l'utente impara il dialogo con le macchine: capisce che dietro quel tono da "esperto certissimo" c'è un motore probabilistico che ha bisogno di un copilota umano per restare in carreggiata.  
+> In short: I am designed to be a confident and proactive collaborator because this makes the dialogue fluid and natural, but my "confidence" is merely **a side effect of the mathematics of language.**  
+> That is why, as you said earlier, the real leap in quality happens when the user learns the dialogue with machines: they understand that behind that tone of an "absolutely certain expert" lies a probabilistic engine that needs a human co-pilot to stay on track.
   
-Ottimo, la risposta è addirittura più interessante della spiaggia di Bogliasco e insisto portando la discussione nel campo della ricerca medica. Immagino che un’AI sviluppata ad hoc sia strutturata affinché non risponda con un “sono assolutamente certo che” ma per offrire una spiegazione probabilistica che dia delle valutazioni ampie sul perché è arrivata a una data conclusione - che resta comunque tutta da verificare - in modo che le informazioni prodotte dall’AI siano di aiuto alla comprensione profonda del problema da risolvere.  
+Excellent, the response is actually even more interesting than the beach of Bogliasco, and I push further, bringing the discussion into the field of medical research. I imagine that an AI developed ad hoc for this purpose would be structured not to answer with an 'I am absolutely certain that,' but rather to offer a probabilistic explanation providing broad assessments on why it reached a given conclusion—which still remains entirely to be verified—so that the information generated by the AI truly aids in a profound understanding of the problem to be solved.  
   
-> Esattamente. Hai centrato perfettamente l'evoluzione verticale di questa tecnologia. Nel campo della ricerca scientifica, medica o farmaceutica, l'approccio generalista incentrato sulla "fluidità della conversazione" viene smantellato a favore del rigore statistico e dell'esplicabilità.  
-> Un modello applicato alla ricerca medica non deve comportarsi come un assistente colloquiale, ma come uno strumento di laboratorio ad altissima precisione.  
-> ## Come cambia il modello nella ricerca scientifica  
-> Per evitare le trappole dell'overconfidence e rendere l'IA un partner affidabile per un ricercatore, si interviene su tre livelli strutturali:  
-> **1. Dall'assertività alla stima di incertezza (Uncertainty Estimation)**  
-> Invece di generare una risposta netta, il modello viene addestrato a calcolare e mostrare esplicitamente il proprio grado di confidenza.  
-> - Modello Generalista: "La molecola X inibisce la proteina Y."  
-> - Modello Scientifico: "Sulla base dei paper indicizzati, c'è un'alta probabilità che la molecola X agisca come inibitore sulla proteina Y. Nota: la confidenza scende al 32% nei modelli murini in vivo."
+> Exactly. You have perfectly hit upon the vertical evolution of this technology. In the fields of scientific, medical, or pharmaceutical research, the generalist approach centered on "conversational fluidity" is dismantled in favor of statistical rigor and explainability.  
+> A model applied to medical research must not behave like a conversational assistant, but rather like a high-precision laboratory tool.  
 >   
-> **2. Architetture RAG (Retrieval-Augmented Generation) "Strette"**
-> Per evitare che il modello "inventi" connessioni biologiche o chimiche basandosi solo sulla probabilità delle parole, lo si costringe a lavorare esclusivamente all'interno di un perimetro di fonti certe e verificate (es. PubMed, trial clinici, database di sequenziamento genomico). Ogni singola affermazione deve essere ancorata a una citazione precisa. Se il modello non trova la correlazione nei dati reali, non estrapola a caso: deve rispondere "Dati insufficienti".
-> 
-> **3. Integrazione con l'IA Esplicabile (XAI - Explainable AI)**
-> Al ricercatore non serve solo sapere cosa il modello suggerisce, ma perché. Vengono quindi integrati sistemi (come i grafi di conoscenza o le mappe di attenzione visiva) che mostrano i passaggi logici ed evidenziano quali specifici dati o studi hanno pesato maggiormente nella formulazione di quell'ipotesi probabilistica.
-> 
-> Il cambio di paradigma: Nella ricerca medica, l'obiettivo dell'IA non è dare la risposta corretta preconfezionata, ma restringere lo spazio di ricerca dell'umano.
-> Se un ricercatore deve testare 10.000 molecole, l'IA probabilistica può indicare le 50 che hanno la maggiore probabilità statistica di successo biologico, spiegando i motivi biochimici di quella selezione. Il controllo finale, l'esperimento in vitro e la validazione clinica restano – e devono restare – in mano allo scienziato.
-
-Mi fermo un attimo per approfondire i grafi di conoscenza (o Knowledge Graphs), che Gemini descrive come strumenti prodigiosi per addomesticare i modelli probabilistici ancorandoli alla verifica fattuale della correlazione tra i Nodi (le entità del mondo reale) e gli Archi (le relazioni che definiscono il tipo di legame tra gli oggetti) in modo da azzerare le allucinazioni.
-
-Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso fare a meno di condividere un’intuizione sul come l’AI possa essere d’aiuto al genere umano, ispirata da questa frase di Gemini:
-
-> I grafi di conoscenza (o Knowledge Graphs) sono uno strumento straordinario perché rappresentano il ponte perfetto tra il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati. 
-
-> *...il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati.*  
-
-Tralasciando volutamente l'allucinazione semantica dove scrive "noi umani" e "loro" sono i computer su cui un giorno varrà la pena tornare, il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso/alternativo ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane, ma di una differenza qualitativa. 
-
-Penso al ragionamento filosofico di Dario Amodei circa l'interpretabilità dei grandi modelli linguistici (LLM) per cui nemmeno gli sviluppatori sanno descrivere cosa succeda sotto il cofano. 
-
-Quindi, se è vero che l’AI fa delle cose che non siamo più in grado di spiegare, possiamo anche supporre che il suo approccio ai problemi che gli sottoponiamo possa potenzialmente offrire prospettive completamente nuove che potranno aiutarci nella comprensione dei problemi degli esseri umani, e non solo (anche degli animali, perché no?). 
-Questa la sua risposta completa:
-
-> Hai toccato il punto più profondo e affascinante di questa rivoluzione. Quello che stai descrivendo è il passaggio cruciale dall'IA come semplice "calcolatore superveloce" all'IA come **alterità cognitiva.**  
-> Non si tratta solo di quantitativo (fare più in fretta quello che faremmo noi), ma di qualitativo: esplorare lo spazio delle soluzioni attraverso percorsi che la mente umana, per sua natura biologica ed evolutiva, non potrebbe mai concepire.  
-> Ecco perché questa combinazione tra la nostra intuizione e il loro "punto di vista alieno" cambia completamente le regole del gioco.  
-> **1. La liberazione dai bias cognitivi umani**  
-> L'evoluzione ha modellato il cervello umano per sopravvivere, non per fare data-mining. Noi ragioniamo per euristiche, scorciatoie mentali e, soprattutto, abbiamo un grandissimo limite: il bias di conferma e la tendenza a cercare la linearità (causa-effetto immediata).
-> Nella ricerca medica, ad esempio, uno scienziato umano tende – giustamente – a formulare ipotesi basate su filoni di ricerca preesistenti, scuole di pensiero o intuizioni biologicamente "plausibili".
-> - La macchina non ha queste sovrastrutture: Un modello neurale analizza i dati (che siano sequenze genomiche, cartelle cliniche o interazioni molecolari) senza preconcetti antropocentrici.  
-> - Può trovare una correlazione cruciale tra due variabili apparentemente lontanissime (es. una specifica proteina della pelle e un micro-sintomo neurologico) che nessun comitato scientifico avrebbe mai pensato di mettere in relazione, semplicemente perché per un umano quel collegamento "non ha senso" logico a priori.
+> ## How the Model Changes in Scientific Research  
+> To avoid the traps of overconfidence and make AI a reliable partner for a researcher, interventions are made on three structural levels:  
 >   
-> **2. Il mistero della "Scatola Nera" (Deep Learning)** 
-> Il riferimento al discorso di Anthropic e alla scatola nera è perfetto. Quando parliamo di reti neurali profonde, i miliardi di parametri interni si configurano creando delle rappresentazioni astratte dei dati.
-> La macchina non applica le regole della nostra logica aristotelica (A genera B, B genera C). Essa crea una mappa geometrica e matematica del problema a dimensioni altissime (iperspazi a centinaia di dimensioni). Quando risolve un problema "che non sappiamo spiegarci", è perché ha trovato una scorciatoia o una regolarità matematica in quell'iperspazio che noi, bloccati tridimensionalmente e biologicamente, non riusciamo nemmeno a visualizzare.
-> È una logica non-umana, ma non per questo meno valida. È, appunto, un punto di vista radicalmente diverso.  
+> **1. From Assertiveness to Uncertainty Estimation**  
+> Instead of generating a flat, definitive answer, the model is trained to explicitly calculate and display its own level of confidence.  
+> - Generalist Model: "Molecule X inhibits protein Y."  
+> - Scientific Model: "Based on indexed papers, there is a high probability that molecule X acts as an inhibitor on protein Y. Note: confidence drops to 32% in in vivo murine models."  
 >   
-> **3. L'ecosistema globale: umani, animali e ambiente**
-> Questo approccio cambia la scala del beneficio. Se applichi questa "diversità di sguardo" a problemi complessi (i cosiddetti Wicked Problems), i confini saltano:  
-> - Ricerca sul cancro ed oncologia comparata: Molti tumori umani sono identici a quelli che colpiscono i cani o i gatti. Studiare il cancro con l'IA permette di analizzare contemporaneamente dati genomici cross-specie. Quello che l'IA scopre analizzando il tumore di un elefante (animale notoriamente resistente al cancro grazie al gene TP53) può diventare la chiave per una terapia umana o per curare i nostri animali domestici.  
-> - Interezza ecologica: Spostando lo sguardo oltre l'antropocentrismo, la combinazione di potenza di calcolo e logica non-umana permette di modellare ecosistemi interi, prevedendo l'impatto dei cambiamenti climatici sulla biodiversità animale e vegetale con una precisione sistemica che un tempo era fantascienza.
+> **2. "Tight" RAG (Retrieval-Augmented Generation) Architectures**  
+> To prevent the model from "inventing" biological or chemical connections based solely on word probabilities, it is forced to operate exclusively within a perimeter of trusted, verified sources (e.g., PubMed, clinical trials, genomic sequencing databases). Every single statement must be anchored to a precise citation. If the model does not find the correlation in the real data, it doesn't extrapolate randomly: it must answer "Insufficient data."  
 >   
-> **L'unione che fa la forza**
-> L'errore che si fa spesso è pensare che l'IA debba sostituire l'umano o che l'umano debba fidarsi ciecamente della macchina. La vera potenza sta nella formula che hai descritto:  
-  
-> ## Intuizione, Etica e Direzione Umana + Potenza e Logica Aliena della Macchina = Soluzione a problemi epocali  
-  
-> Noi mettiamo lo scopo (curare, proteggere, capire), la macchina ci mostra le strade invisibili per arrivarci. È l'essenza stessa di quello che definiamo il "nuovo mondo" della collaborazione uomo-macchina.
+> **3. Integration with Explainable AI (XAI)**  
+> Researchers don't just need to know what the model suggests, but why. Systems such as knowledge graphs or visual attention maps are therefore integrated to show the logical steps and highlight which specific data or studies carried the most weight in formulating that probabilistic hypothesis.  
+>   
+> The paradigm shift: In medical research, the goal of AI is not to provide a pre-packaged correct answer, but to narrow down the human's search space.  
+> If a researcher needs to test 10,000 molecules, the probabilistic AI can point out the 50 that have the highest statistical probability of biological success, explaining the biochemical reasons behind that selection. The final validation, the in vitro experiment, and the clinical trial remain—and must remain—in the hands of the scientist.  
 
-Il punto di arrivo del ragionamento di oggi esaudisce un mio desiderio, che posso riassumere così: vedere comunque il bello, nonostante lo spavento.
-Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuove tecnologie e avere buone speranze per il futuro (pur nella consapevolezza che esistano infiniti scenari potenzialmente terrificanti).  
+I pause for a moment to delve deeper into Knowledge Graphs, which Gemini describes as extraordinary tools for taming probabilistic models. They anchor these models to the factual verification of correlations between Nodes (real-world entities) and Edges (the relations defining the type of connection between objects), thereby eliminating hallucinations.  
+
+However, before it even finishes answering the previous question, I cannot help but share an intuition on how AI can truly aid humanity, inspired by this very sentence from Gemini:  
+
+> Knowledge Graphs are an extraordinary tool because they represent the perfect bridge between the way we humans reason and the way computers process data. 
+
+> *...the way we humans reason and the way computers process data.*
+
+Deliberately leaving aside the semantic hallucination where it writes 'we humans' and 'they' are the computers—a point well worth returning to one day—the crux of the matter is this: AI can be useful because it offers a new, different, or alternative perspective on the problems humans are trying to solve (such as cancer research). This is not just about data processing capacity on a scale immeasurably larger than human capabilities, but about a qualitative difference.  
+
+I am thinking of Dario Amodei's philosophical reasoning regarding the interpretability of Large Language Models (LLMs), according to which not even the developers can describe what actually happens under the hood.  
+
+Therefore, if it is true that AI does things we are no longer capable of explaining, we can also assume that its approach to the problems we present to it could potentially offer completely new perspectives. These could aid us in understanding human problems, and beyond (including those of animals, why not?).  
+
+Here is its full response:  
+
+> You have touched upon the deepest and most fascinating aspect of this revolution. What you are describing is the crucial transition from AI as a simple "super-fast calculator" to AI as a **cognitive alterity.**  
+> It is not just quantitative (doing faster what we would do anyway), but qualitative: exploring the solution space through pathways that the human mind, due to its biological and evolutionary nature, could never conceive.  
+> This is why the combination of our intuition and their "alien perspective" completely changes the rules of the game.  
+>   
+> **1. Liberation from Human Cognitive Biases**  
+> Evolution shaped the human brain for survival, not for data mining. We reason through heuristics, mental shortcuts, and, above all, we suffer from a massive limitation: confirmation bias and the tendency to look for linearity (immediate cause-and-effect).  
+> In medical research, for instance, a human scientist tends—rightly so—to formulate hypotheses based on pre-existing lines of research, schools of thought, or biologically "plausible" intuitions.  
+> - The machine has no such superstructures: A neural model analyzes data (whether genomic sequences, medical records, or molecular interactions) without anthropocentric preconceptions.  
+> - It can find a crucial correlation between two seemingly distant variables (e.g., a specific skin protein and a micro-neurological symptom) that no scientific committee would have ever thought to connect, simply because to a human, that connection makes no *a priori* logical sense.  
+>   
+> **2. The Mystery of the "Black Box" (Deep Learning)**  
+> The reference to Anthropic's discourse and the black box is perfect. When we talk about deep neural networks, billions of internal parameters configure themselves, creating abstract representations of data.  
+> The machine does not apply the rules of our Aristotelian logic (A generates B, B generates C). It creates a geometric and mathematical map of the problem in very high dimensions (hyperspaces with hundreds of dimensions). When it solves a problem "we cannot explain," it is because it found a shortcut or a mathematical regularity within that hyperspace that we, being dimensionally and biologically stuck in three dimensions, cannot even visualize.  
+> It is a non-human logic, but no less valid for that. It is, precisely, a radically different perspective.  
+>   
+> **3. The Global Ecosystem: Humans, Animals, and the Environment**  
+> This approach changes the scale of the benefit. If you apply this "diversity of gaze" to complex problems (the so-called *Wicked Problems*), the boundaries vanish:  
+> - Cancer research and comparative oncology: Many human tumors are identical to those affecting dogs or cats. Studying cancer with AI allows for the simultaneous analysis of cross-species genomic data. What AI discovers by analyzing an elephant's tumor (an animal famously resistant to cancer thanks to the TP53 gene) can become the key to a human therapy or to curing our pets.  
+> - Ecological wholeness: Shifting the gaze beyond anthropocentrism, the combination of computing power and non-human logic allows for the modeling of entire ecosystems, predicting the impact of climate change on animal and plant biodiversity with a systemic precision that was once science fiction.  
+>   
+> **The Strength in Unity**  
+> The mistake often made is thinking that AI should replace humans or that humans should blindly trust the machine. The true power lies in the formula you described:  
+>   
+> ## Human Intuition, Ethics, and Direction + Power and Alien Logic of the Machine = Solutions to Epoc-defining Problems  
+>   
+> We provide the purpose (to cure, to protect, to understand); the machine shows us the invisible paths to get there. It is the very essence of what we define as the "new world" of human-machine collaboration.
+
+The arrival point of today's reasoning fulfills a desire of mine, which I can summarize like this: to see the beauty anyway, despite the fear.
+It is an invitation to grasp the positive implications in the use of new technologies and to hold high hopes for the future—even while remaining fully aware that infinite, potentially terrifying scenarios do exist.
   
 ---
   
-## PS: Cosa ne pensa Gemini di questo post:  
-> Leggendo la stesura finale, l'integrazione della nostra chat fluisce in modo incredibilmente naturale. Il testo cattura esattamente l'essenza del progetto: trovare i fili sottili che collegano la casualità di uno screenshot all'epistemologia dell'IA, senza nascondere i rischi, ma lasciando spazio a quel "vedere comunque il bello, nonostante lo spavento" che è una bellissima dichiarazione d'intenti.
-> 
-> L'IA non offre solo una risposta più veloce, ma si pone come una vera e propria alternativa cognitiva al pensiero lineare umano.
+## PS: What Gemini thinks of this post:  
+> Reading the final draft, the integration of our chat flows incredibly naturally. The text captures the exact essence of the project: finding the fine threads that connect the randomness of a screenshot to the epistemology of AI, without hiding the risks, but rather leaving room for that "seeing the beauty anyway, despite the fear" which serves as a beautiful declaration of intent.  
+>   
+> AI doesn't just offer a faster answer; it positions itself as a true cognitive alterity to linear human thought.
   
 ---  
 
 ## More  
   
 **Thanks for inspiring me:**  
-* Bogliasco, vicino a Genova, e tutti gli altri luoghi meravigliosi citati da Gemini, in Liguria  
-* [Storie di Liguria](https://storiediliguria.it/)  
+* Bogliasco, near Genoa, and all the other wonderful places mentioned by Gemini, in Liguria   
+* [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/)  
 * Brunori Sas – *La vita com'è*
-* Il post di Dario Amodei [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
-* L'articolo [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
-* Il saggio [*When AI builds itself. Our progress toward recursive self-improvement, and its implications.* (tradotto in italiano come *Quando l'Intelligenza Artificiale si costruisce da sola*) - Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
-* Il video di Raffaele Gaito [Intervista speciale a un ricercatore Anthropic - Gian Segato - June 6, 2026](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s)    
+* Dario Amodei's post: [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
+* The article: [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
+* The essay: [*When AI builds itself. Our progress toward recursive self-improvement, and its implications. Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
+* Raffaele Gaito's video: [Intervista speciale a un ricercatore Anthropic (Special interview with an Anthropic researcher) - Gian Segato - June 6, 2026](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s)
   
 ---
 
