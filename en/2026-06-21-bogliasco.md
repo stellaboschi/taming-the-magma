@@ -1,24 +1,24 @@
 ---
 title: "Bogliasco"
-subtitle: "Da Bogliasco all’alterità cognitiva dell'AI"
+subtitle: "From Bogliasco to the Cognitive Alterity of AI"
 date: 2026-06-21
-project: "Fili Sottili / Taming The Magma"
-language: "it"
-tags:
-  - mare
-  - spiaggia  
-  - allucinazioni
-  - anticiclone-africano
+project: "Taming The Magma"
+language: "en"
+tags: 
+  - sea
+  - beach  
+  - hallucinations
+  - african-anticyclone
   - liguria
   - ai
   - anthropic
   - wicked-problems
   - black-box
-  - interpretabilità
-  - alternativa  
+  - interpretability
+  - alternative
 ---
 
-# Da Bogliasco all’alterità cognitiva dell'AI
+# From Bogliasco to the Cognitive Alterity of AI
 (Esplorazioni)
   
 Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non c'è!).
@@ -200,7 +200,7 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
   
 ---
 
-[← Return to Fili Sottili - IT](index.md)  
+[← Return to Taming the Magma - EN](index.md)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
