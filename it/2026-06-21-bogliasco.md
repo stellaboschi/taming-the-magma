@@ -142,7 +142,7 @@ Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso far
 
 > *...il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati.*  
 
-Tralasciando volutamente l'allucinazione semantica dove Gemini scrive "noi umani" e "loro" sono i computer su cui un giorno varrà la pena tornare, il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso/alternativo ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane, ma di una differenza qualitativa. 
+Tralasciando volutamente l'allucinazione semantica dove scrive "noi umani" e "loro" sono i computer su cui un giorno varrà la pena tornare, il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso/alternativo ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane, ma di una differenza qualitativa. 
 
 Penso al ragionamento filosofico di Dario Amodei circa l'interpretabilità dei grandi modelli linguistici (LLM) per cui nemmeno gli sviluppatori sanno descrivere cosa succeda sotto il cofano. 
 
