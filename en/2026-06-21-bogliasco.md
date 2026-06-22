@@ -190,7 +190,7 @@ It is an invitation to grasp the positive implications in the use of new technol
 **Thanks for inspiring me:**  
 * Bogliasco, near Genoa, and all the other wonderful places mentioned by Gemini, in Liguria   
 * [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/)  
-* Brunori Sas – *La vita com'è*
+* Brunori Sas – *La vita com'è* (An Italian song about *Life exactly as it is*)
 * Dario Amodei's post: [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
 * The article: [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
 * The essay: [*When AI builds itself. Our progress toward recursive self-improvement, and its implications.* Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
