@@ -138,7 +138,7 @@ However, before it even finishes answering the previous question, I cannot help 
 
 > *...the way we humans reason and the way computers process data.*
 
-Deliberately leaving aside the semantic hallucination where it writes 'we humans' and 'they' are the computers—a point well worth returning to one day—the crux of the matter is this: AI can be useful because it offers a new, different, or alternative perspective on the problems humans are trying to solve (such as cancer research). This is not just about data processing capacity on a scale immeasurably larger than human capabilities, but about a qualitative difference.  
+Deliberately leaving aside the semantic hallucination where it positions itself among 'we humans' while the others are the computers—a point well worth returning to one day—the crux of the matter is this: AI can be useful because it offers a new, different, or alternative perspective on the problems humans are trying to solve (such as cancer research). This is not just about data processing capacity on a scale immeasurably larger than human capabilities, but about a qualitative difference.  
 
 I am thinking of Dario Amodei's philosophical reasoning regarding the interpretability of Large Language Models (LLMs), according to which not even the developers can describe what actually happens under the hood.  
 
