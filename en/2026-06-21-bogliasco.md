@@ -169,7 +169,7 @@ Here is its full response:
 > **The Strength in Unity**  
 > The mistake often made is thinking that AI should replace humans or that humans should blindly trust the machine. The true power lies in the formula you described:  
 >   
-> ## Human Intuition, Ethics, and Direction + Power and Alien Logic of the Machine = Solutions to Epoc-defining Problems  
+> ## Human Intuition, Ethics, and Direction + Power and Alien Logic of the Machine = Solutions to Epoch-defining Problems  
 >   
 > We provide the purpose (to cure, to protect, to understand); the machine shows us the invisible paths to get there. It is the very essence of what we define as the "new world" of human-machine collaboration.
 
