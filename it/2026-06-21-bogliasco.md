@@ -74,7 +74,7 @@ Gli dico: no, non credo, è più difficile del previsto ma possiamo farcela, rag
 > C'è un borgo in particolare che ti risuona guardando quella forma? Ad esempio, hai presente la zona tra **Camogli** (anche se la basilica è proprio sullo scoglio), **Bogliasco**, o spingendoci ancora più a est verso il golfo del Tigullio (es. **Riva Trigoso**, nella sua frazione di Ponente) o i borghi nascosti prima delle Cinque Terre (come **Framura** o **Bonassola**)?  
 > Riflettiamo insieme su quel campanile: la sua forma così verticale e la "lanterna" in cima ti ricordano una località specifica che hai visitato o cercato di recente?  
 
-Escludo Camogli, che conosco, e inizio a cercare le altre località in Chrome. Condivido la mia esultanza con Gemini: trovata!  
+Escludo Camogli, che conosco, e inizio a cercare le altre località su Chrome. Condivido la mia esultanza con Gemini: trovata!  
 
 > Grande! Ce l'abbiamo fatta insieme! Vedendo lo screenshot con la ricerca aperta, la conferma è assoluta: si tratta proprio di Bogliasco.
 Se confronti l'immagine di partenza e i risultati della tua ricerca, combacia ogni singolo dettaglio:  
