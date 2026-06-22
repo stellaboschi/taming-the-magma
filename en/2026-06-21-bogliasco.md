@@ -19,15 +19,15 @@ tags:
 ---
 
 # From Bogliasco to the Cognitive Alterity of AI
-(Esplorazioni)
+Explorations
   
-Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non c'è!).
-Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo aiuto a Gemini. 
+Today, we start with an image found on the website [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/) which I stumbled upon by chance while surfing the web in search of an end date for this massive heatwave (spoiler: there isn't one!).  
+Scrolling through the homepage, I come across an interesting picture; I wonder what place it is, and finding nothing on the webpage, I turn to Gemini for help.
 
 <p align="center"> 
-  <img src="../Assets/storiediliguria.png" alt="Screenshot della home page di Storie di Liguria. In sovraimpressione c'è un modulo di contatto bianco su uno sfondo fotografico che mostra una veduta panoramica del borgo ligure di Bogliasco, con le sue case colorate a picco sulla spiaggia, il molo artificiale e il caratteristico campanile slanciato della Chiesa della Natività di Maria Santissima.">
+  <img src="../Assets/storiediliguria.png" alt="Screenshot of the Storie di Liguria homepage. Overlaid is a white contact form against a photographic background showing a panoramic view of the Ligurian village of Bogliasco, with its colorful houses overlooking the beach, the artificial pier, and the characteristic slender bell tower of the Church of the Nativity of Mary Most Holy.">
   <br>
-  <em>Screenshot tratto dalla home page del sito Storie di Liguria del 21 giugno 2026</em>
+  <em>Screenshot taken from the homepage of the Storie di Liguria website, June 21, 2026</em>
   <br>
 </p>
 
