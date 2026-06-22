@@ -14,6 +14,7 @@ tags:
   - anthropic
   - wicked-problems
   - black-box
+  - interpretabilità
   - alternativa  
 ---
 
@@ -143,7 +144,7 @@ Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso far
 
 Il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso/alternativo ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane ma di una differenza qualitativa. 
 
-Penso al recente discorso di Anthropic sulla “scatola nera” di Claude Code per cui nemmeno i suoi sviluppatori sanno dire cosa succeda sotto il cofano. 
+Penso al ragionamento filosofico di Dario Amodei circa l'interpretabilità dei grandi modelli linguistici (LLM) per cui nemmeno gli sviluppatori sanno descrivere cosa succeda sotto il cofano. 
 
 Quindi, se è vero che l’AI fa delle cose che non siamo più in grado di spiegare, possiamo anche supporre che il suo approccio ai problemi che gli sottoponiamo possa potenzialmente offrire prospettive completamente nuove che potranno aiutarci nella comprensione dei problemi degli esseri umani, e non solo (anche degli animali, perché no?). 
 Questa la sua risposta completa:
