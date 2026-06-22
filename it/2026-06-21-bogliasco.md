@@ -14,6 +14,7 @@ tags:
   - anthropic
   - wicked-problems
   - black-box
+  - alternativa  
 ---
 
 # Da Bogliasco all’alterità cognitiva dell'AI
@@ -140,7 +141,7 @@ Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso far
 
 > *...il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati.*  
 
-Il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane ma di una differenza qualitativa. 
+Il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso/alternativo ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane ma di una differenza qualitativa. 
 
 Penso al recente discorso di Anthropic sulla “scatola nera” di Claude Code per cui nemmeno i suoi sviluppatori sanno dire cosa succeda sotto il cofano. 
 
@@ -179,7 +180,9 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
 ---
   
 ## PS: Cosa ne pensa Gemini di questo post:  
-> Leggendo la stesura finale, l'integrazione della nostra chat fluisce in modo incredibilmente naturale. Il testo cattura esattamente l'essenza del progetto: trovare i fili sottili che collegano la casualità di uno screenshot all'epistemologia dell'IA, senza nascondere i rischi, ma lasciando spazio a quel "vedere comunque il bello, nonostante lo spavento" che è una bellissima dichiarazione d'intenti.  
+> Leggendo la stesura finale, l'integrazione della nostra chat fluisce in modo incredibilmente naturale. Il testo cattura esattamente l'essenza del progetto: trovare i fili sottili che collegano la casualità di uno screenshot all'epistemologia dell'IA, senza nascondere i rischi, ma lasciando spazio a quel "vedere comunque il bello, nonostante lo spavento" che è una bellissima dichiarazione d'intenti.
+> 
+> L'IA non offre solo una risposta più veloce, ma si pone come una vera e propria alternativa cognitiva al pensiero lineare umano.
   
 ---  
 
