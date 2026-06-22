@@ -5,17 +5,11 @@ date: 2026-06-21
 project: "Taming The Magma"
 language: "en"
 tags: 
-  - sea
-  - beach  
-  - hallucinations
-  - african-anticyclone
-  - liguria
   - ai
   - anthropic
   - wicked-problems
   - black-box
   - interpretability
-  - alternative
 ---
 
 # From Bogliasco to the Cognitive Alterity of AI
