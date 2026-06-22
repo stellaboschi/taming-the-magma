@@ -5,17 +5,11 @@ date: 2026-06-21
 project: "Fili Sottili / Taming The Magma"
 language: "it"
 tags:
-  - mare
-  - spiaggia  
-  - allucinazioni
-  - anticiclone-africano
-  - liguria
   - ai
   - anthropic
   - wicked-problems
   - black-box
   - interpretabilità
-  - alternativa  
 ---
 
 # Da Bogliasco all’alterità cognitiva dell'AI
