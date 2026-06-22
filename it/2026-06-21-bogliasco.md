@@ -6,6 +6,7 @@ project: "Fili Sottili / Taming The Magma"
 language: "it"
 tags:
   - mare
+  - spiaggia  
   - allucinazioni
   - anticiclone-africano
   - liguria
@@ -137,7 +138,7 @@ Tuttavia, prima che finisca di rispondere alla domanda precedente, non posso far
 
 > I grafi di conoscenza (o Knowledge Graphs) sono uno strumento straordinario perché rappresentano il ponte perfetto tra il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati. 
 
-> *il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati*  
+> *...il modo in cui ragioniamo noi umani e il modo in cui i computer elaborano i dati.*  
 
 Il punto è questo: l’AI può essere utile perché offre un punto di vista nuovo/diverso ai problemi che gli umani cercano di risolvere (ad esempio la ricerca sul cancro). Non si tratta solo della capacità di elaborazione dati su scala incommensurabilmente più grande rispetto alle capacità umane ma di una differenza qualitativa. 
 
