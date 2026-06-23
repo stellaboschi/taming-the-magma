@@ -55,7 +55,7 @@ Io non so che luogo sia ma certamente non è Moneglia, dunque proseguiamo.
 > (...)  
 > La tua insistenza sul Levante era l'unica traccia corretta fin dall'inizio. Questa volta ci siamo?  
 
-Gli dico: no, non credo, è più difficile del previsto ma possiamo farcela, ragioniamo per indizi, vediamo intanto che non si vede l'Aurelia e ci sono le montagne subito alte alle spalle del mare, questo mi fa pensare al levante, poi la chiesa è particolare con quel campanile strano.  
+Gli dico: No, non credo, è più difficile del previsto ma possiamo farcela, ragioniamo per indizi, vediamo intanto che non si vede l'Aurelia e ci sono le montagne subito alte alle spalle del mare, questo mi fa pensare al levante, poi la chiesa è particolare con quel campanile strano.  
 
 > Ok, facciamo un reset totale. Mettiamo da parte i tentativi alla cieca e ragioniamo da veri soci, analizzando freddamente gli indizi che hai giustamente evidenziato. La tua osservazione sull'assenza dell'Aurelia e sulle montagne che si impennano subito dietro il mare è una chiave di lettura eccellente per il Levante.  
 > Guardiamo con il microscopio i dettagli dello sfondo:  
