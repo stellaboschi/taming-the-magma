@@ -113,7 +113,7 @@ Excellent, the response is actually even more interesting than the beach of Bogl
 > Exactly. You have perfectly hit upon the vertical evolution of this technology. In the fields of scientific, medical, or pharmaceutical research, the generalist approach centered on "conversational fluidity" is dismantled in favor of statistical rigor and explainability.  
 > A model applied to medical research must not behave like a conversational assistant, but rather like a high-precision laboratory tool.  
 >   
-> ## How the Model Changes in Scientific Research  
+> ### How the Model Changes in Scientific Research  
 > To avoid the traps of overconfidence and make AI a reliable partner for a researcher, interventions are made on three structural levels:  
 >   
 > **1. From Assertiveness to Uncertainty Estimation**  
@@ -169,7 +169,7 @@ Here is its full response:
 > **The Strength in Unity**  
 > The mistake often made is thinking that AI should replace humans or that humans should blindly trust the machine. The true power lies in the formula you described:  
 >   
-> ## Human Intuition, Ethics, and Direction + Power and Alien Logic of the Machine = Solutions to Epoch-defining Problems  
+> ### Human Intuition, Ethics, and Direction + Power and Alien Logic of the Machine = Solutions to Epoch-defining Problems  
 >   
 > We provide the purpose (to cure, to protect, to understand); the machine shows us the invisible paths to get there. It is the very essence of what we define as the "new world" of human-machine collaboration.
 
@@ -178,7 +178,7 @@ It is an invitation to grasp the positive implications in the use of new technol
   
 ---
   
-## PS: What Gemini thinks of this post:  
+### PS: What Gemini thinks of this post:  
 > Reading the final draft, the integration of our chat flows incredibly naturally. The text captures the exact essence of the project: finding the fine threads that connect the randomness of a screenshot to the epistemology of AI, without hiding the risks, but rather leaving room for that "seeing the beauty anyway, despite the fear" which serves as a beautiful declaration of intent.  
 >   
 > AI doesn't just offer a faster answer; it positions itself as a true cognitive alterity to linear human thought.
