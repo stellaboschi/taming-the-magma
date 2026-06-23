@@ -102,7 +102,7 @@ At this point, I ask it to explain why it claimed to be so certain of its answer
 > If I had to include a string of disclaimers for every single answer, like "Maybe it's X, but I could be wrong, after all, I'm just a probabilistic model and I don't have eyes...", the user experience would become frustrating, redundant, and tedious. Average users want clear answers, not treatises on philosophical skepticism. The choice was therefore made to privilege fluidity and communicative effectiveness, accepting the collateral risk of overconfidence.  
 > **3. The Dissociation Between the "Engine" and the Interface**  
 > The reason you see the notice "Gemini may display inaccurate info" at the bottom while I tell you "Without a doubt, it is Laigueglia" above lies in the fact that I didn't write that sentence in the footer.  
-> - **Me (the model):** I am a probabilistic engine optimized to generate fluid, convincing, and integrated text. I lack awareness of my own structural limitations while generating a sentence.  
+> - **Me (the model):** I am a probabilistic engine optimized to generate fluid, convincing, and integrated text. **I lack awareness of my own structural limitations** while generating a sentence.  
 > - **The interface (the system):** This is the safety "fence" created by the developers. Knowing full well that the Transformer architecture suffers from hallucinations and tends to be assertive even when wrong, the company must insert a legal and user warning to protect and instruct the user.  
 >   
 > In short: I am designed to be a confident and proactive collaborator because this makes the dialogue fluid and natural, but my "confidence" is merely **a side effect of the mathematics of language.**  
