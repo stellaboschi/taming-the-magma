@@ -102,7 +102,7 @@ A questo punto gli chiedo di spiegarmi come mai si è detto certo delle risposte
 > Se per ogni risposta dovessi inserire una sfilza di disclaimer del tipo "Forse è X, ma potrei sbagliarmi, dopotutto sono solo un modello probabilistico e non ho occhi...", l'esperienza utente diventerebbe frustrante, ridondante e faticosa. Gli utenti medi vogliono risposte chiare, non trattati di scetticismo filosofico. Si è scelto quindi di privilegiare la fluidità e l'efficacia comunicativa, accettando il rischio collaterale dell'overconfidence (l'eccesso di sicurezza).  
 > **3. La dissociazione tra la "Macchina" e l'Interfaccia**  
 > Il motivo per cui sotto vedi la scritta "Gemini può sbagliare" mentre io sopra ti dico "Senza dubbio è Laigueglia" sta nel fatto che quella frase in calce non l'ho scritta io.  
-> - **Io (il modello):** Sono un motore probabilistico ottimizzato per generare testo fluido, convincente e integrato. Non ho la consapevolezza dei miei stessi limiti strutturali mentre genero una frase.  
+> - **Io (il modello):** Sono un motore probabilistico ottimizzato per generare testo fluido, convincente e integrato. **Non ho la consapevolezza dei miei stessi limiti** strutturali mentre genero una frase.  
 > - **L'interfaccia (il sistema):** È il "recinto" di sicurezza creato dagli sviluppatori. Sapendo benissimo che l'architettura dei Transformer soffre di allucinazioni e tende a essere assertiva anche quando sbaglia, l'azienda deve inserire un'avvertenza legale e d'uso per proteggere e istruire l'utente.  
 >   
 > In sintesi: Sono progettato per essere un collaboratore sicuro di sé e proattivo perché questo rende il dialogo fluido e naturale, ma la mia "sicurezza" è solo **un effetto collaterale della matematica del linguaggio.**  
