@@ -55,7 +55,7 @@ I don't know what place it is, but it is certainly not Moneglia, so we move on.
 > (...)  
 > Your insistence on the Levante was the only correct clue from the very start. Did we get it this time?
 
-I tell it: no, I don't think so; it's harder than expected, but we can do this. Let's reason through clues: first, we can see that the Aurelia highway isn't visible, and the mountains rise steeply right behind the sea, which makes me think of the Levante. Also, the church is unique, with that strange bell tower.  
+I tell it: No, I don't think so; it's harder than expected, but we can do this. Let's reason through clues: first, we can see that the Aurelia highway isn't visible, and the mountains rise steeply right behind the sea, which makes me think of the Levante. Also, the church is unique, with that strange bell tower.  
 
 > Ok, let's do a total reset. Let's cast aside the blind guesses and reason like true partners, coldly analyzing the clues you have rightly highlighted. Your observation about the absence of the Aurelia highway and the mountains soaring steeply right behind the sea is an excellent key to reading the Levante.  
 > Let's look at the background details under a microscope:  
