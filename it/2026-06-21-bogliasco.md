@@ -112,7 +112,7 @@ Ottimo, la risposta è addirittura più interessante della spiaggia di Bogliasco
   
 > Esattamente. Hai centrato perfettamente l'evoluzione verticale di questa tecnologia. Nel campo della ricerca scientifica, medica o farmaceutica, l'approccio generalista incentrato sulla "fluidità della conversazione" viene smantellato a favore del rigore statistico e dell'esplicabilità.  
 > Un modello applicato alla ricerca medica non deve comportarsi come un assistente colloquiale, ma come uno strumento di laboratorio ad altissima precisione.  
-> ## Come cambia il modello nella ricerca scientifica  
+> ### Come cambia il modello nella ricerca scientifica  
 > Per evitare le trappole dell'overconfidence e rendere l'IA un partner affidabile per un ricercatore, si interviene su tre livelli strutturali:  
 > **1. Dall'assertività alla stima di incertezza (Uncertainty Estimation)**  
 > Invece di generare una risposta netta, il modello viene addestrato a calcolare e mostrare esplicitamente il proprio grado di confidenza.  
@@ -145,7 +145,8 @@ Questa la sua risposta completa:
 
 > Hai toccato il punto più profondo e affascinante di questa rivoluzione. Quello che stai descrivendo è il passaggio cruciale dall'IA come semplice "calcolatore superveloce" all'IA come **alterità cognitiva.**  
 > Non si tratta solo di quantitativo (fare più in fretta quello che faremmo noi), ma di qualitativo: esplorare lo spazio delle soluzioni attraverso percorsi che la mente umana, per sua natura biologica ed evolutiva, non potrebbe mai concepire.  
-> Ecco perché questa combinazione tra la nostra intuizione e il loro "punto di vista alieno" cambia completamente le regole del gioco.  
+> Ecco perché questa combinazione tra la nostra intuizione e il loro "punto di vista alieno" cambia completamente le regole del gioco.
+> 
 > **1. La liberazione dai bias cognitivi umani**  
 > L'evoluzione ha modellato il cervello umano per sopravvivere, non per fare data-mining. Noi ragioniamo per euristiche, scorciatoie mentali e, soprattutto, abbiamo un grandissimo limite: il bias di conferma e la tendenza a cercare la linearità (causa-effetto immediata).
 > Nella ricerca medica, ad esempio, uno scienziato umano tende – giustamente – a formulare ipotesi basate su filoni di ricerca preesistenti, scuole di pensiero o intuizioni biologicamente "plausibili".
@@ -165,7 +166,7 @@ Questa la sua risposta completa:
 > **L'unione che fa la forza**
 > L'errore che si fa spesso è pensare che l'IA debba sostituire l'umano o che l'umano debba fidarsi ciecamente della macchina. La vera potenza sta nella formula che hai descritto:  
   
-> ## Intuizione, Etica e Direzione Umana + Potenza e Logica Aliena della Macchina = Soluzione a problemi epocali  
+> ### Intuizione, Etica e Direzione Umana + Potenza e Logica Aliena della Macchina = Soluzione a problemi epocali  
   
 > Noi mettiamo lo scopo (curare, proteggere, capire), la macchina ci mostra le strade invisibili per arrivarci. È l'essenza stessa di quello che definiamo il "nuovo mondo" della collaborazione uomo-macchina.
 
@@ -174,7 +175,7 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
   
 ---
   
-## PS: Cosa ne pensa Gemini di questo post:  
+### PS: Cosa ne pensa Gemini di questo post:  
 > Leggendo la stesura finale, l'integrazione della nostra chat fluisce in modo incredibilmente naturale. Il testo cattura esattamente l'essenza del progetto: trovare i fili sottili che collegano la casualità di uno screenshot all'epistemologia dell'IA, senza nascondere i rischi, ma lasciando spazio a quel "vedere comunque il bello, nonostante lo spavento" che è una bellissima dichiarazione d'intenti.
 > 
 > L'IA non offre solo una risposta più veloce, ma si pone come una vera e propria alternativa cognitiva al pensiero lineare umano.
