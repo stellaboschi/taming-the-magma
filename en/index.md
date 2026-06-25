@@ -30,7 +30,7 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 ## Latest Posts
 
-* [From Bogliasco to the Cognitive Alterity of AI (June 21, 2026)](2026-06-21-bogliasco.md)
+* [From Bogliasco (Genoa) to the Cognitive Alterity of AI (June 21, 2026)](2026-06-21-bogliasco.md)
 * [The Map (or: The ethics of the plateau in the face of the magma) (May 22, 2026)](2026-05-22-the-map.md)
 * [Work in Progress (January 9, 2026)](2026-01-09-work-in-progress.md)
 
