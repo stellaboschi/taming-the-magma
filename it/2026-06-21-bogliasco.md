@@ -1,6 +1,6 @@
 ---
-title: "Bogliasco"
-subtitle: "Da Bogliasco all’alterità cognitiva dell'AI"
+title: "Da Bogliasco (Genova) all’alterità cognitiva dell'AI"
+subtitle: "Explorations"
 date: 2026-06-21
 project: "Fili Sottili / Taming The Magma"
 language: "it"
@@ -13,7 +13,7 @@ tags:
 ---
 
 # Da Bogliasco all’alterità cognitiva dell'AI
-(Esplorazioni)
+(Explorations)
   
 Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non c'è!).
 Scorro la home page e incappo in un’immagine interessante, mi chiedo che luogo sia e non trovando nulla nella pagina web chiedo aiuto a Gemini. 
