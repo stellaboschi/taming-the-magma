@@ -1,6 +1,6 @@
 ---
-title: "Bogliasco"
-subtitle: "From Bogliasco to the Cognitive Alterity of AI"
+title: "From Bogliasco (Genoa) to the Cognitive Alterity of AI"
+subtitle: "(Explorations)"
 date: 2026-06-21
 project: "Taming The Magma"
 language: "en"
@@ -12,7 +12,7 @@ tags:
   - interpretability
 ---
 
-# From Bogliasco to the Cognitive Alterity of AI
+# From Bogliasco (Genoa) to the Cognitive Alterity of AI
 Explorations
   
 Today, we start with an image found on the website [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/) which I stumbled upon by chance while surfing the web in search of an end date for this massive heatwave (spoiler: there isn't one!).  
