@@ -12,7 +12,7 @@ tags:
   - interpretabilità
 ---
 
-# Da Bogliasco all’alterità cognitiva dell'AI
+# Da Bogliasco (Genova) all’alterità cognitiva dell'AI
 (Explorations)
   
 Oggi partiamo da un’immagine trovata sul sito [Storie di Liguria](https://storiediliguria.it/) dove arrivo per caso navigando nel web alla ricerca di una data per la fine del grande caldo (spoiler: non c'è!).
