@@ -65,14 +65,11 @@ La cosa che più mi colpisce della sua risposta è l’enfasi con cui sottolinea
 > La posizione di Faggin è netta, radicale e si contrappone frontalmente al riduzionismo materialista. Per Faggin, l'idea che l'ispirazione, la creatività o la coscienza siano proprietà emergenti da una complessa rete neurale (biologica o artificiale) è un errore di categoria fondamentale.
 > 
 > Ecco la mappatura della sua visione applicata al nostro discorso:
-> 
-> **1. Correlazione vs. Comprensione (La trappola dell'IA)**
+> 1. **Correlazione vs. Comprensione (La trappola dell'IA)**
 >    Una rete neurale, sia essa di silicio o il network sinaptico del cervello inteso come macchina biologica, funziona per associazione di segnali e calcolo statistico di correlazioni. Per Faggin le reti neurali simulano l'apprendimento memorizzando e ottimizzando correlazioni, ma non comprendono nulla. La vera ispirazione, il momento in cui "raccogli il dono", non è il risultato di un calcolo algoritmico della rete, ma un atto di comprensione immediata che avviene nella coscienza, la quale sperimenta i qualia (le sensazioni soggettive, il significato profondo del segnale).
-> 
-> **2. Il Silicio è un Canale, non la Sorgente**
+> 2. **Il Silicio è un Canale, non la Sorgente**
 >    Nella sua teoria ontologica (sviluppata anche attraverso la Fondazione Faggin), la realtà fisica e lo spazio-tempo sono secondari. La realtà primaria è l'Universo inteso come totalità cosciente che vuole conoscere se stessa attraverso "parti-tutto" (enti coscienti individuali, simili alle monadi di Leibniz).
 >    Il cervello umano e le sue reti neurali sono semplicemente un interfaccia informativa, un "teatro" o un hardware di sintonizzazione. Tornando alla metafora dell'antenna: per Faggin, la rete neurale è il circuito elettronico della radio, ma la musica che trasmette (l'ispirazione di cui parlava Jackson) non è generata dai transistor. Se la radio si rompe, la musica continua a esistere nel campo elettromagnetico.
-> 
 > 3. **La natura Quantistica e Olistica dell'Intuizione**
 >    Mentre le reti neurali classiche operano secondo una logica booleana e sequenziale (anche quando massicciamente parallele), l'intuizione creativa ha una natura olistica, istantanea e non-locale. Faggin ipotizza che la coscienza operi a livello di stati quantistici coerenti elevati.  
 >    Questo spiega la dinamica del "raccoglierlo subito": l'intuizione creativa si presenta come un collasso di potenzialità quantistiche in un'esperienza vissuta internamente. La rete neurale biologica deve poi faticosamente tradurre quel lampo olistico e simultaneo in simboli classici, vettori e parole (il processo di sbrogliamento del Magma). Se non lo fa immediatamente, il sistema macroscopico decade e la coerenza quantistica va perduta.
