@@ -9,6 +9,7 @@ tags:
   - ispirazione
   - coscienza
   - reti neurali
+  - scrittura
 ---
 
 # Lost Property Office (ovvero la goccia e l’oceano)
