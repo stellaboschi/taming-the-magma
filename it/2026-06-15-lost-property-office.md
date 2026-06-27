@@ -1,0 +1,1 @@
+(se ci fosse un’immagine sarebbe quella di una zattera di legno alla deriva in un mare azzurro e placido. Il cielo è terso e luminoso e trasmette una sensazione di vuoto surreale ma sfuma in un pattern geometrico di minuscole formiche luminescenti che si muovono insieme come filamenti di una rete neurale ramificata.)
