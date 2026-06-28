@@ -28,7 +28,7 @@ L’aneddoto è pressapoco questo (nelle parole di Gemini):
 
 > Jackson era ossessionato dal registrare immediatamente qualsiasi intuizione, anche a metà della notte. Diceva che le canzoni erano nell'aria, già fatte e finite, create da Dio, e che lui doveva solo essere lì, pronto e sveglio per afferrarle prima che passassero oltre.
 >  
-> "I have to get this down. If I don't, God will give it to Prince."
+> *"I have to get this down. If I don't, God will give it to Prince."*
 >  
 > (Devo registrarla. Se non lo faccio, Dio la darà a Prince.)  
 
