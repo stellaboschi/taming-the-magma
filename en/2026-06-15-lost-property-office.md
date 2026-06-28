@@ -177,7 +177,7 @@ For today, I am about to conclude with a reflection on the exhaustion of writing
 * "Michael" (2026) - A movie worth watching, I suppose
 * Elizabeth Gilbert - [Her TED profile](https://www.ted.com/speakers/elizabeth_gilbert )
 * Federico Faggin, inventor of the microprocessor, inaugurates the 2022/23 Academic Year of the Digital Education degree course at the University of Modena and Reggio Emilia with the Lectio Magistralis "Technology, life, and consciousness. The need for a new paradigm" - October 7, 2022 - Reggio Emilia, Aula Magna Manodori, Unimore. [Here is the lecture on the University's YouTube channel](https://www.youtube.com/watch?v=PyB2nmrA5PQ )
-* La Stampa, Article by Arcangelo Rociola dated July 13, 2024 - [Federico Faggin: “Siamo fatti di coscienza e materia. Non batteremo le macchine con i numeri - We are made of consciousness and matter. We will not beat machines with numbers”](https://www.lastampa.it/cronaca/2024/07/13/news/federico_faggin_non_batteremo_le_macchine_con_i_numeri-14471778/)
+* La Stampa, Article by Arcangelo Rociola dated July 13, 2024 - [Federico Faggin: “Siamo fatti di coscienza e materia. Non batteremo le macchine con i numeri”](https://www.lastampa.it/cronaca/2024/07/13/news/federico_faggin_non_batteremo_le_macchine_con_i_numeri-14471778/) (“We are made of consciousness and matter. We will not beat machines with numbers”)
   
 ---
 
