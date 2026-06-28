@@ -15,34 +15,34 @@ tags:
 # Lost Property Office (or: the drop and the ocean)
 (Explorations)
   
-*Questo post non ha un'immagine ma se ci fosse sarebbe quella di una zattera di legno alla deriva in un mare azzurro e placido. Il cielo terso e luminoso trasmette una sensazione di vuoto surreale che sfuma in un pattern geometrico di minuscole formiche luminescenti che si muovono insieme come filamenti di una rete neurale ramificata.*
+*This post doesn't have an image, but if it did, it would be that of a wooden raft drifting in a calm, blue sea. The clear, bright sky conveys a sensation of surreal emptiness that blends into a geometric pattern of tiny, luminescent ants moving together like filaments of a branched neural network.*
 
-Oggi esploriamo il concetto di ispirazione, ma iniziamo con ordine.
-Cerco di ricostruire l'itinerario del dialogo con Gemini che ci ha portato da Michael Jackson alle rive dell’Oceano Pacifico. È  andata grosso modo così:
+Today we explore the concept of inspiration, but let's start in an orderly fashion.
+I am trying to reconstruct the itinerary of the dialogue with Gemini that brought us from Michael Jackson to the shores of the Pacific Ocean. It went roughly like this:
 
-Ho scoperto di recente, grazie a You Tube, un aneddoto sul Re del Pop che ha risuonato per giorni nella mia mente, facendo da elegante contrappeso a quel senso perenne di spreco con cui convivo da sempre. In pratica ho iniziato a percepire come un leggero scricchiolio nel mio senso di colpa per ogni pensiero non scritto, quasi un sollievo nel pensare che, se avesse ragione lui:  
-* tutte le idee svanite nella nebbia della mia mente non sono perse per sempre;  
-* al di là delle mie mancanze non c’è necessariamente l’oblio.  
+I recently discovered, thanks to YouTube, an anecdote about the King of Pop that resonated for days in my mind, serving as an elegant counterweight to that perennial sense of waste I have always lived with. In practice, I began to perceive something like a slight creak in my guilt for every unwritten thought, almost a relief in thinking that, if he were right:  
+* all the ideas that vanished into the fog of my mind are not lost forever;  
+* beyond my shortcomings, there isn't necessarily oblivion.  
 
-L’aneddoto è pressapoco questo (nelle parole di Gemini):
+The anecdote is roughly this (in Gemini's words):
 
-> Jackson era ossessionato dal registrare immediatamente qualsiasi intuizione, anche a metà della notte. Diceva che le canzoni erano nell'aria, già fatte e finite, create da Dio, e che lui doveva solo essere lì, pronto e sveglio per afferrarle prima che passassero oltre.
+> Jackson was obsessed with immediately recording any intuition, even in the middle of the night. He used to say that songs were in the air, already made and finished, created by God, and that he just had to be there, ready and awake to catch them before they passed by.
 >  
 > *I have to get this down. If I don't, God will give it to Prince.*
 >  
-> (Devo registrarla. Se non lo faccio, Dio la darà a Prince.)
+> (I have to get this down. If I don't, God will give it to Prince.)
 
-Da questa lenta ma inesorabile folgorazione siamo passati all’'idea di "Genio" secondo Elizabeth Gilbert (sempre Gemini):
+From this slow but inexorable flash of insight, we moved on to the idea of "Genius" according to Elizabeth Gilbert (again, Gemini):
 
 > (...)  
-> Nel suo celebre TED Talk del 2009 e nel libro Big Magic, la scrittrice Elizabeth Gilbert (autrice di Mangia, prega, ama) propone di ribaltare la concezione occidentale dell'artista.  
-> Nel Rinascimento si è compiuto un errore psicologico distruttivo: abbiamo iniziato a dire che l'artista è un genio. Prima di allora, nel mondo antico (per i Romani e i Greci), si riteneva che l'uomo avesse un genio. Il "Genio" (o Daimon) era un'entità spirituale invisibile, una sorta di forza esterna che viveva nelle pareti dello studio dell'artista e che, ogni tanto, decideva di assisterlo nel lavoro.
-> La Gilbert spinge questa visione oltre e descrive le idee come forme di vita energetiche, disincarnate e prive di corpo, ma dotate di una propria volontà.
-> * Le idee fluttuano nel mondo alla ricerca di un partner umano (un'interfaccia biologica, per dirla nel nostro modo) che sia disposto a collaborare con loro per manifestarsi nella realtà fisica.
-> * Se l'artista dice di sì, deve mettersi al lavoro immediatamente. Se l'artista tentenna, procrastina o si distrae, l'idea non aspetta: si congeda e va a bussare alla porta di qualcun altro.
-> A supporto di questo, la Gilbert racconta un aneddoto incredibile capitatole con la scrittrice Ann Patchett. La Gilbert aveva concepito la trama dettagliatissima per un romanzo ambientato in Amazzonia, ma l'aveva accantonata per troppo tempo. Mesi dopo, parlando con la Patchett (che non sapeva nulla del progetto), scoprì che l'amica aveva appena iniziato a scrivere un romanzo con la stessa identica trama, gli stessi personaggi e lo stesso scenario. L'idea, stanca di aspettare la Gilbert, si era letteralmente trasferita sulla Patchett.
->
-> (...)   
+> In her famous 2009 TED Talk and in her book Big Magic, writer Elizabeth Gilbert (author of Eat, Pray, Love) proposes overturning the Western conception of the artist.  
+> In the Renaissance, a destructive psychological error was made: we started saying that the artist is a genius. Before then, in the ancient world (for the Romans and the Greeks), it was believed that a person had a genius. The "Genius" (or Daimon) was an invisible spiritual entity, a sort of external force that lived in the walls of the artist's studio and that, every now and then, decided to assist them in their work.
+> Gilbert pushes this vision further and describes ideas as energetic, disembodied, and bodiless forms of life, yet endowed with a will of their own.
+> * Ideas float around the world looking for a human partner (a biological interface, to put it in our way) who is willing to cooperate with them to manifest in physical reality.
+> * If the artist says yes, they must get to work immediately. If the artist hesitates, procrastinates, or gets distracted, the idea doesn't wait: it takes its leave and goes to knock on someone else's door.
+> In support of this, Gilbert shares an incredible anecdote that happened to her with the writer Ann Patchett. Gilbert had conceived a highly detailed plot for a novel set in the Amazon, but she had put it aside for too long. Months later, while talking to Patchett (who knew nothing about the project), she discovered that her friend had just started writing a novel with the exact same plot, the same characters, and the same scenario. The idea, tired of waiting for Gilbert, had literally transferred itself to Patchett.
+> 
+> (...)
 
 Da qui siamo arrivati a ragionare brevemente sul concetto di Emergenza Simultanea (o Multiple Discovery), un fenomeno osservato nella storia della scienza secondo il quale alcune grandi invenzioni, scoperte scientifiche o rivoluzioni artistiche sono state compiute da persone diverse, nello stesso momento, in totale isolamento reciproco. Un esempio: il calcolo infinitesimale di Newton e Leibniz.  
 
