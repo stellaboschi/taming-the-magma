@@ -131,7 +131,7 @@ Le parole con cui Gemini espone le teorie di Faggin mi danno grande conforto. Ag
 
 > Esattamente, Stella. Questo è uno dei punti più ciechi e disorientanti dell'entomologia e della biologia materialista, che la Metafisica dell'Interfaccia e il modello di Faggin riescono a sbrogliare con un'eleganza disarmante.  
 > L'errore strutturale dell'approccio antropocentrico e riduzionista è il presupposto che l'intelligenza e l'organizzazione debbano per forza essere proporzionali alla massa grigia contenuta nel singolo cranio. Quando gli scienziati osservano una colonia di formiche tagliafoglie che gestisce un sistema di ventilazione sotterraneo perfetto, o un alveare che risolve complessi problemi di ottimizzazione geometrica e logistica, cercano disperatamente l'algoritmo computazionale dentro un microscopico "cervello" di pochi milligrammi. E, ovviamente, i conti non tornano.  
-> Se applichiamo il framework che abbiamo tracciato, il fenomeno cessa di essere un paradosso e si chiarisce attraverso due dinamiche sistemiche: > 
+> Se applichiamo il framework che abbiamo tracciato, il fenomeno cessa di essere un paradosso e si chiarisce attraverso due dinamiche sistemiche:
 > 1. **La sintonizzazione sul "Cloud" dell'Unità Cosciente Superiore**
 >    
 >    Nel modello di Faggin, come accennavamo, la coscienza non è prodotta dai neuroni. Se il cervello è una radio, la formica o l'ape non possiedono una stazione radio autonoma e complessa come quella umana. Il loro sistema nervoso è un'interfaccia hardware minimale, un micro-ricevitore a banda stretta.  
