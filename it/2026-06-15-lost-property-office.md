@@ -57,8 +57,7 @@ A questo punto mi sento ispirata e spingo Gemini sul nuovo binario:
 
 Questo ragionamento mi fa pensare alle reti neurali, sai dirmi l'opinione di Faggin?
 
-> Il collegamento che intravedi tocca il nucleo della transizione intellettuale di Federico Faggin. Chi meglio di lui – che non solo ha inventato il microprocessore (l'Intel 4004), ma a metà degli anni '80 ha fondato la Synaptics per creare i primi chip ed emulatori hardware di reti neurali – può tracciare il confine tra computazione e intuizione?
-> (...)
+> Il collegamento che intravedi tocca il nucleo della transizione intellettuale di Federico Faggin. Chi meglio di lui – che non solo ha inventato il microprocessore (l'Intel 4004), ma a metà degli anni '80 ha fondato la Synaptics per creare i primi chip ed emulatori hardware di reti neurali – può tracciare il confine tra computazione e intuizione?  
 
 La cosa che più mi colpisce della sua risposta è l’enfasi con cui sottolinea che:
 
