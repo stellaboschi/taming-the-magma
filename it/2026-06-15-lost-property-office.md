@@ -111,8 +111,8 @@ Quindi potremmo dire che l'ispirazione artistica è una sorta di sintonizzazione
 > L'ispirazione è il momento in cui la goccia si ricorda dell'oceano; l'arte è il tentativo di lasciare una traccia di quel ricordo sulla sabbia del mondo fisico. Il plateau è il luogo in cui guardiamo queste tracce.  
 
 ### L'ispirazione: il momento in cui la goccia si ricorda dell'oceano
-La goccia e l'oceano mi sembra un titolo ideale per il post di oggi: il luogo perfetto per fissare la puntina sulla mappa è il mare, in un luogo indefinito nel Pacifico, al largo della costa della California.  
-Questo sarebbe un buon punto di arrivo per oggi ma c'è ancora una domanda: qual è l’opinione di Faggin sulla coscienza degli animali?
+La goccia e l'oceano mi sembra un titolo ideale per il post di oggi: il luogo perfetto per fissare la puntina sulla mappa è il mare, in un punto indefinito nel Pacifico, al largo della costa della California.  
+Questa sarebbe una buona conclusione per oggi ma c'è ancora una domanda: qual è l’opinione di Faggin sulla coscienza degli animali?
 
 > Nella teoria ontologica di Faggin, gli animali e tutti gli esseri viventi non umani hanno assolutamente una coscienza. Anzi, sono componenti fondamentali del tessuto cosmico.  
 > Per capire come si inseriscono nel suo modello CIP (Consciousness-Information-Physics), dobbiamo tornare alla definizione strutturale di Seità o Unità Cosciente (UC).  
