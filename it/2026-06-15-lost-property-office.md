@@ -166,7 +166,7 @@ Per oggi mi accingo a concludere con una riflessione sulla fatica di scrivere. A
 
 ## More  
   
-**Thanks for inspiring me:**  
+**Lista delle fonti che non ho ancora visto/letto/ascoltato:**  
 * "Michael" (2026) - Un film da vedere, suppongo
 * Elizabeth Gilbert - [Il suo profilo su TED](https://www.ted.com/speakers/elizabeth_gilbert )
 * Federico Faggin, inventore del microprocessore, inaugura l’Anno Accademico 2022/23 del corso di laurea in Digital Education dell’Università degli Studi di Modena e Reggio Emilia con la Lectio Magistralis "Tecnologia, vita e coscienza. La necessità di un nuovo paradigma" - 7 ottobre 2022 - Reggio Emilia, Aula Magna Manodori, Unimore. [Qui la conferenza sul canale You Tube dell’Università](https://www.youtube.com/watch?v=PyB2nmrA5PQ )
