@@ -15,7 +15,7 @@ tags:
 # Lost Property Office (ovvero: la goccia e l’oceano)
 (Explorations)
   
-*Questo post non ha un'immagine ma se ci fosse sarebbe quella di una zattera di legno alla deriva in un mare azzurro e placido. Il cielo è terso e luminoso e trasmette una sensazione di vuoto surreale che sfuma in un pattern geometrico di minuscole formiche luminescenti che si muovono insieme come filamenti di una rete neurale ramificata.*
+*Questo post non ha un'immagine ma se ci fosse sarebbe quella di una zattera di legno alla deriva in un mare azzurro e placido. Il cielo terso e luminoso trasmette una sensazione di vuoto surreale che sfuma in un pattern geometrico di minuscole formiche luminescenti che si muovono insieme come filamenti di una rete neurale ramificata.*
 
 Oggi esploriamo il concetto di ispirazione, ma iniziamo con ordine.
 Cerco di ricostruire l'itinerario del dialogo con Gemini che ci ha portato da Michael Jackson alle rive dell’Oceano Pacifico. È  andata grosso modo così:
