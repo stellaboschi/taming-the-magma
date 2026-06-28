@@ -5,7 +5,7 @@ date: 2026-06-21
 project: "Fili Sottili / Taming The Magma"
 language: "it"
 tags:
-  - ai
+  - agentic-ai
   - ispirazione
   - coscienza
   - reti neurali
