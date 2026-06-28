@@ -42,6 +42,7 @@ Da questa lenta ma inesorabile folgorazione siamo passati all’'idea di "Genio"
 > * Le idee fluttuano nel mondo alla ricerca di un partner umano (un'interfaccia biologica, per dirla nel nostro modo) che sia disposto a collaborare con loro per manifestarsi nella realtà fisica.
 > * Se l'artista dice di sì, deve mettersi al lavoro immediatamente. Se l'artista tentenna, procrastina o si distrae, l'idea non aspetta: si congeda e va a bussare alla porta di qualcun altro.
 > A supporto di questo, la Gilbert racconta un aneddoto incredibile capitatole con la scrittrice Ann Patchett. La Gilbert aveva concepito la trama dettagliatissima per un romanzo ambientato in Amazzonia, ma l'aveva accantonata per troppo tempo. Mesi dopo, parlando con la Patchett (che non sapeva nulla del progetto), scoprì che l'amica aveva appena iniziato a scrivere un romanzo con la stessa identica trama, gli stessi personaggi e lo stesso scenario. L'idea, stanca di aspettare la Gilbert, si era letteralmente trasferita sulla Patchett.
+> (...)   
 
 Da qui siamo arrivati a ragionare brevemente sul concetto di Emergenza Simultanea (o Multiple Discovery), un fenomeno osservato nella storia della scienza secondo il quale alcune grandi invenzioni, scoperte scientifiche o rivoluzioni artistiche sono state compiute da persone diverse, nello stesso momento, in totale isolamento reciproco. Un esempio: il calcolo infinitesimale di Newton e Leibniz.  
 
