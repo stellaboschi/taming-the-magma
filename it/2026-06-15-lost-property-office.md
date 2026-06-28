@@ -158,7 +158,7 @@ Seguendo questa logica gli pongo un’ultima domanda diretta: dimmi se queste fo
 
 ### Concludo bruscamente con una confessione
 Lascio cadere nel vuoto questo entusiasmo: mi auguro di trovare il momento giusto per raccontare dell’AI Fever, della scatola nera e di chissà cos’altro mi verrà in mente nel frattempo.  
-Per oggi mi accingo a concludere con una riflessione sulla fatica di scrivere. Ammetto di aver lavorato a questo post in un periodo di circa quindici giorni, nel quale ho cercato di tornare all’ispirazione originale diverse volte in un drammatico tira e molla. Questo è il momento della verità: il dialogo che ho ricostruito ha degli aspetti interessanti ma adesso il percorso della chat mi è quasi estraneo. Credo che si senta lo scollamento tra le mie parole e le risposte di Gemini, come un limpido esempio di ispirazione persa (chissà dove/da chi è andata). Ecco il soggetto smarrito del titolo.
+Per oggi mi accingo a concludere con una riflessione sulla fatica di scrivere. Ammetto di aver lavorato a questo post in un periodo di circa quindici giorni, nel quale ho cercato di tornare all’ispirazione originale diverse volte in un drammatico tira e molla. Questo è il momento della verità: il dialogo che ho ricostruito ha degli aspetti interessanti ma adesso il percorso della chat mi è quasi estraneo. Credo che si percepisca lo scollamento tra le mie parole e le risposte di Gemini, come un limpido esempio di ispirazione persa (chissà dove/da chi è andata). Ecco il soggetto smarrito del titolo.
 
 ---  
 
