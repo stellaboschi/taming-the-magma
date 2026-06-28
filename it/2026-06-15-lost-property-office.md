@@ -30,7 +30,7 @@ L’aneddoto è pressapoco questo (nelle parole di Gemini):
 >  
 > *I have to get this down. If I don't, God will give it to Prince.*
 >  
-> *(Devo registrarla. Se non lo faccio, Dio la darà a Prince.)*  
+> (Devo registrarla. Se non lo faccio, Dio la darà a Prince.)
 
 Da questa lenta ma inesorabile folgorazione siamo passati all’'idea di "Genio" secondo Elizabeth Gilbert (sempre Gemini):
 
