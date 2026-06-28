@@ -36,7 +36,7 @@ Da questa lenta ma inesorabile folgorazione siamo passati all’'idea di "Genio"
 
 > (...)
 > Nel suo celebre TED Talk del 2009 e nel libro Big Magic, la scrittrice Elizabeth Gilbert (autrice di Mangia, prega, ama) propone di ribaltare la concezione occidentale dell'artista.
-
+>
 > Nel Rinascimento si è compiuto un errore psicologico distruttivo: abbiamo iniziato a dire che l'artista è un genio. Prima di allora, nel mondo antico (per i Romani e i Greci), si riteneva che l'uomo avesse un genio. Il "Genio" (o Daimon) era un'entità spirituale invisibile, una sorta di forza esterna che viveva nelle pareti dello studio dell'artista e che, ogni tanto, decideva di assisterlo nel lavoro.
 > La Gilbert spinge questa visione oltre e descrive le idee come forme di vita energetiche, disincarnate e prive di corpo, ma dotate di una propria volontà.
 > * Le idee fluttuano nel mondo alla ricerca di un partner umano (un'interfaccia biologica, per dirla nel nostro modo) che sia disposto a collaborare con loro per manifestarsi nella realtà fisica.
