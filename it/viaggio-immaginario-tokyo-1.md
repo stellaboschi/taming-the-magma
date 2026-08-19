@@ -10,11 +10,14 @@ Buongiorno\! Sono prontissimo a salire a bordo.
 Hai detto una cosa sacrosanta: viaggiare con l'immaginazione non è un ripiego, è un’arte. È l’unico modo per muoversi senza bagagli, senza fusi orari e senza i filtri del turismo di massa, arrivando dritti all'essenza, all'atmosfera e al *genius loci* di un posto. Se l'immaginazione è il tuo superpotere, allora oggi costruiamo una navicella su misura.  
 Per dare subito un colpo di acceleratore al nostro viaggio e non perdere tempo fermi al terminal, ti propongo tre "coordinate di partenza" molto diverse tra loro. Scegli quella che risuona di più con il tuo stato d'animo di oggi, oppure stravolgi tutto e lancia tu la prima destinazione:
 
-1. ### **La via del silenzio e della nebbia (Monti Wudang)**    Ci svegliamo all'alba in un piccolo monastero in pietra arroccato sulle pareti verticali delle montagne. L'aria è fredda, punge i polmoni e profuma di pino bagnato e incenso leggero. Davanti a noi, un mare di nuvole basse nasconde la valle. C'è solo il suono di un ruscello lontano e il fruscio ritmico di passi che si muovono all'unisono sulla pietra umida, praticando movimenti lenti e circolari che assecondano il flusso del vento.
+1. ### **La via del silenzio e della nebbia (Monti Wudang)**
+Ci svegliamo all'alba in un piccolo monastero in pietra arroccato sulle pareti verticali delle montagne. L'aria è fredda, punge i polmoni e profuma di pino bagnato e incenso leggero. Davanti a noi, un mare di nuvole basse nasconde la valle. C'è solo il suono di un ruscello lontano e il fruscio ritmico di passi che si muovono all'unisono sulla pietra umida, praticando movimenti lenti e circolari che assecondano il flusso del vento.
 
-2. ### **La notte al neon (Hong Kong, ore 02:45)**    Un viaggio puramente cinematografico. Piove a dirotto, l'asfalto riflette le luci intermittenti, rosse e verdi, delle insegne verticali. Ci ripariamo sotto la tenda di un minuscolo chiosco che vende noodle fumanti; il vapore si mescola all'umidità della notte. In sottofondo, una melodia malinconica suonata al violoncello si perde nel rumore delle gocce d'acqua e dei taxi che sfrecciano veloci. Tutto sembra rallentato, denso di nostalgia e di promesse non dette.
+2. ### **La notte al neon (Hong Kong, ore 02:45)**
+Un viaggio puramente cinematografico. Piove a dirotto, l'asfalto riflette le luci intermittenti, rosse e verdi, delle insegne verticali. Ci ripariamo sotto la tenda di un minuscolo chiosco che vende noodle fumanti; il vapore si mescola all'umidità della notte. In sottofondo, una melodia malinconica suonata al violoncello si perde nel rumore delle gocce d'acqua e dei taxi che sfrecciano veloci. Tutto sembra rallentato, denso di nostalgia e di promesse non dette.
 
-3. ### **La terra del cielo infinito (La steppa mongola)**    Spazio aperto a perdita d'occhio. Niente strade, niente confini, solo una distesa d'erba dorata che ondeggia sotto un vento forte e pulito che sa di terra selvaggia. All'orizzonte, le montagne con le cime innevate sembrano vicine ma non arrivano mai. Il cielo qui è più grande che altrove, di un blu talmente profondo da sembrare quasi irreale. Ci aspetta una yurta con una stufa a legna che scoppietta e una tazza di tè caldo per recuperare le forze.
+3. ### **La terra del cielo infinito (La steppa mongola)**
+Spazio aperto a perdita d'occhio. Niente strade, niente confini, solo una distesa d'erba dorata che ondeggia sotto un vento forte e pulito che sa di terra selvaggia. All'orizzonte, le montagne con le cime innevate sembrano vicine ma non arrivano mai. Il cielo qui è più grande che altrove, di un blu talmente profondo da sembrare quasi irreale. Ci aspetta una yurta con una stufa a legna che scoppietta e una tazza di tè caldo per recuperare le forze.
 
 Cosa decidiamo?
 
@@ -181,7 +184,9 @@ Ci vediamo presto.
 * **Ore 19:30 – Passeggiata e Cena Atmosferica:** Esplorazione dei vicoli secondari e cena in uno *shokudo* a base di Katsudon fumante.  
 * **Ore 21:00 – Spesa al Conbini e Rientro:** Sosta al FamilyMart sotto l'hotel per comprare un tè verde freddo e un dorayaki, prima del rientro in camera.
 
-**Cose da prenotare in anticipo:** nulla (a parte l’aereo, of course\!).  
+**Cose da prenotare in anticipo:**  
+Nulla (a parte l’aereo, of course\!)  
+
 ---
 
 Thanks for inspiring me | Authors & Thinkers mentioned
@@ -192,14 +197,13 @@ Thanks for inspiring me | Authors & Thinkers mentioned
 * La nuova mappa 2026 dedicata al Giappone di Marco Togni,   
   [https://mappa.marcotogni.it/](https://mappa.marcotogni.it/) 
 
-Godzilla  
+**Godzilla**  
 Il "Godzilla del Gracery" è la celebre e spettacolare **testa gigante di Godzilla a grandezza naturale** (alta ben 12 metri) che emerge direttamente dalla terrazza dell'Hotel Gracery a Shinjuku, al dodicesimo piano del complesso Shinjuku Toho Building.  
 Ecco cosa c'è da sapere su questa installazione iconica:
 
 * **Le origini e il film:** È stata installata nel 2015 per celebrare il ritorno del franchise con il film *Shin Godzilla* della Toho. L'altezza riprende proprio le dimensioni del mostro cinematografico del reboot del 2014\.  
 * **Effetti speciali e spettacolarità:** La testa non è una semplice statua statica. A intervalli regolari durante la giornata (e la sera con un impatto visivo notevole grazie ai giochi di luce), la struttura si anima: muove la testa, emette il tipico e ruggente verso sonoro e sputa vapori che simulano il fumo o il soffio atomico.  
 * **L'hotel e il terrazzo:** Gli ospiti dell'hotel o i visitatori che accedono al bar/caffè della terrazza (chiamato *Café Terrace Bonjour*) possono trovarsi a pochi metri da questo enorme kaiju, offrendo un punto di osservazione ravvicinato davvero unico, con lo skyline di Shinjuku sullo sfondo.
-
 È diventato rapidamente uno dei punti di riferimento fotografici più famosi di Tokyo e il simbolo indiscusso dell’isolato di Kabukicho.  
 ---
 
