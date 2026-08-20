@@ -30,7 +30,7 @@ Here, we try to resist the chaos, one reasoning at a time.
 
 ## Latest Posts
 
-* [Imaginary Journey # 1 - Tokyo, Day 1 - The Arrival and Shinjuku’s Electric Night (August 19, 2026)](2026-08-19-tokyo-1.dm)
+* [Imaginary Journey # 1 - Tokyo, Day 1 - The Arrival and Shinjuku’s Electric Night (August 19, 2026)](2026-08-19-tokyo-1.md)
 * [From Bogliasco (Genoa) to the Cognitive Alterity of AI (June 21, 2026)](2026-06-21-bogliasco.md)
 * [Lost Property Office (or: the drop and the ocean) (June 15, 2026)](2026-06-15-lost-property-office.md)
 * [The Map (or: The ethics of the plateau in the face of the magma) (May 22, 2026)](2026-05-22-the-map.md)
