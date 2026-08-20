@@ -30,7 +30,7 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ## Latest Posts
 
-* [Viaggio immaginario # 1 - Tokyo, Day 1 - L’arrivo e la notte elettrica di Shinjuku](2026-08-19-tokyo-1.dm)
+* [Viaggio immaginario # 1 - Tokyo, Day 1 - L’arrivo e la notte elettrica di Shinjuku (19-08-2026)](2026-08-19-tokyo-1.dm)
 * [Da Bogliasco (Genova) all’alterità cognitiva dell'AI (21-06-2026)](2026-06-21-bogliasco.md)
 * [Lost Property Office (ovvero: la goccia e l'oceano) (15-06-2026)](2026-06-15-lost-property-office.md)
 * [La mappa (ovvero: l'etica dell'altipiano di fronte al magma) (22-05-2026)](2026-05-22-the-map.md)
