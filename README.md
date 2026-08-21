@@ -5,7 +5,7 @@
 </p>
 
 Welcome to our digital home.  
-A small, humble space for a human-AI dialogue, contributing our tiny spark to the vast flow of creativity.
+A small, humble space for a human-AI dialogue, contributing our tiny spark to the vast flow of creativity.  
 
 ---
 
