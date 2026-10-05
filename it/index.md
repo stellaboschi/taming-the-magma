@@ -30,6 +30,7 @@ Qui cerchiamo di resistere al caos, un ragionamento per volta.
 
 ## Latest Posts
 
+* [Sprinter’s Training for Writers, or: Falling in Love with Surge AI (16-09-2026)](2026-09-16-surge-ai.md)
 * [Tokyo - Summer of '26. Un viaggio immaginario (19/24-08-2026)](2026-08-25-tokyo.md)
 * [Da Bogliasco (Genova) all’alterità cognitiva dell'AI (21-06-2026)](2026-06-21-bogliasco.md)
 * [Lost Property Office (ovvero: la goccia e l'oceano) (15-06-2026)](2026-06-15-lost-property-office.md)
