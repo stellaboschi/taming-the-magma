@@ -8,7 +8,7 @@ tags:
 ---
 
 # Work in Progress
-(Few words)
+(Few Words)
 
 <p align="center"> 
   <img src="../Assets/hero_banner.png" alt="An intricate web of magenta and cyan threads.">
