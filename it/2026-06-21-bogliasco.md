@@ -1,15 +1,15 @@
 ---
-title: "Da Bogliasco (Genova) all’alterità cognitiva dell'AI"
-subtitle: "Explorations"
+title: "From Bogliasco (Genoa) to the Cognitive Alterity of AI"
+subtitle: "Finding the fine threads that connect the randomness of a screenshot to the epistemology of AI."
 date: 2026-06-21
-project: "Fili Sottili / Taming The Magma"
+project: "Taming The Magma"
 language: "it"
-tags:
-  - ai
+tags: 
+  - artificial-intelligence
   - anthropic
   - wicked-problems
   - black-box
-  - interpretabilità
+  - interpretability
 ---
 
 # Da Bogliasco (Genova) all’alterità cognitiva dell'AI
