@@ -1,11 +1,11 @@
 ---
 title: "From Bogliasco (Genoa) to the Cognitive Alterity of AI"
-subtitle: "(Explorations)"
+subtitle: "Finding the fine threads that connect the randomness of a screenshot to the epistemology of AI."
 date: 2026-06-21
 project: "Taming The Magma"
 language: "en"
 tags: 
-  - ai
+  - artificial-intelligence
   - anthropic
   - wicked-problems
   - black-box
@@ -13,7 +13,7 @@ tags:
 ---
 
 # From Bogliasco (Genoa) to the Cognitive Alterity of AI
-Explorations
+(Explorations)
   
 Today, we start with an image found on the website [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/) which I stumbled upon by chance while surfing the web in search of an end date for this massive heatwave (spoiler: there isn't one!).  
 Scrolling through the homepage, I come across an interesting picture; I wonder what place it is, and finding nothing on the webpage, I turn to Gemini for help.
