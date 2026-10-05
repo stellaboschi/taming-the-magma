@@ -1,15 +1,15 @@
 ---
-title: "Lost Property Office (ovvero: la goccia e l’oceano)"
-subtitle: "Explorations"
+title: "Lost Property Office (or: the drop and the ocean)"
+subtitle: "Human-machine interaction on the edge of inspiration."
 date: 2026-06-21
-project: "Fili Sottili / Taming The Magma"
+project: "Taming The Magma"
 language: "it"
 tags:
   - agentic-ai
-  - ispirazione
-  - coscienza
-  - reti neurali
-  - scrittura
+  - intuition
+  - consciousness
+  - neural-networks
+  - writing
 ---
 
 # Lost Property Office (ovvero: la goccia e l’oceano)
