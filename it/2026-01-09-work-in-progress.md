@@ -1,7 +1,7 @@
 ---
 title: Work in Progress
 date: 2026-01-09
-project: Fili Sottili
+project: Taming the Magma
 language: it
 tags:
   - Few Words
