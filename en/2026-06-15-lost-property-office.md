@@ -1,12 +1,12 @@
 ---
 title: "Lost Property Office (or: the drop and the ocean)"
-subtitle: "Explorations"
+subtitle: "Human-machine interaction on the edge of inspiration."
 date: 2026-06-21
 project: "Taming The Magma"
 language: "en"
 tags:
   - agentic-ai
-  - inspiration
+  - intuition
   - consciousness
   - neural-networks
   - writing
