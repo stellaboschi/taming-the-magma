@@ -12,7 +12,7 @@ A small, humble space for a human-AI dialogue, contributing our tiny spark to th
 ## Select Language
 
 [[IT] Entra nel Laboratorio (Italiano)](it/)
-  > *Fili Sottili: lettere dal caos. Strategia creativa e dialogo con le macchine.*
+  > *Fili Sottili: lettere dal caos. Strategia creativa e dialogo con le macchine.* 
  
 [[EN] Enter the Lab (English)](en/)
   > *A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.*
