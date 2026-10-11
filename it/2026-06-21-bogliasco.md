@@ -185,13 +185,13 @@ Si tratta di un invito a cogliere le implicazioni positive nell’uso delle nuov
 ## More  
   
 **Thanks for inspiring me:**  
-* Bogliasco, vicino a Genova, e tutti gli altri luoghi meravigliosi citati da Gemini, in Liguria  
-* [Storie di Liguria](https://storiediliguria.it/)  
-* Brunori Sas – *La vita com'è*
-* Il post di Dario Amodei [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
-* L'articolo [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
-* Il saggio [*When AI builds itself. Our progress toward recursive self-improvement, and its implications.* (tradotto in italiano come *Quando l'Intelligenza Artificiale si costruisce da sola*) - Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
-* Il video di Raffaele Gaito [Intervista speciale a un ricercatore Anthropic - Gian Segato - June 6, 2026](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s)    
+* Bogliasco, near Genoa, and all the other wonderful places mentioned by Gemini, in Liguria   
+* [Storie di Liguria (Stories of Liguria)](https://storiediliguria.it/)  
+* Brunori Sas – *La vita com'è* (An Italian song about *Life exactly as it is*)
+* Dario Amodei's post: [*The Urgency of Interpretability* - April 2025](https://darioamodei.com/post/the-urgency-of-interpretability)
+* The article: [*Can We Break Open AI’s Black Box? Our understanding of how artificial intelligence ‘reasons’ is startlingly limited. Researchers are starting to fix that.* - Matt Robinson - Chicago Booth Review - February 23, 2026](https://www.chicagobooth.edu/review/can-we-break-open-ais-black-box)  
+* The essay: [*When AI builds itself. Our progress toward recursive self-improvement, and its implications.* Marina Favaro e Jack Clark, Anthropic - June 5, 2026](https://www.anthropic.com/institute/recursive-self-improvement)  
+* Raffaele Gaito's video: [*Intervista speciale a un ricercatore Anthropic (Special interview with an Anthropic researcher) - Gian Segato* - June 6, 2026](https://www.youtube.com/watch?v=_I54OFKJyZU&t=366s) 
   
 ---
 
